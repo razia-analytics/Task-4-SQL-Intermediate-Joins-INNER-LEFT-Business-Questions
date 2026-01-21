@@ -1,0 +1,11 @@
+Business Insights of the Northwind Dataset
+
+1. Top 3 Products Drive Nearly Half of Revenue
+* Insight: The top 3 highest-revenue products account for approximately 45% of total sales, highlighting that a small number of SKUs are critical for overall revenue.
+2. Significant Portion of Customers Are Inactive
+* Insight: Around 30% of customers have never placed an order, representing a large pool of potential buyers who could be targeted through promotions or re-engagement campaigns.
+3. Revenue is Concentrated in Key Categories
+* Insight: The top 2 product categories generate about 60% of total revenue, showing that category-level performance is highly skewed and focusing on these categories could maximize profitability.
+4. Certain Regions Dominate Sales
+* Insight: Sales in Germany and Washington together account for roughly 40% of total revenue, indicating that marketing and shipping strategies should prioritize these high-performing regions.
+
