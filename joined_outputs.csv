@@ -1,0 +1,976 @@
+OrderID,OrderDate,CustomerID,CompanyName,ContactName,City,Country
+10248,04-07-1996 00:00,VINET,Vins et alcools Chevalier,Paul Henriot,Reims,France
+10249,05-07-1996 00:00,TOMSP,Toms Spezialitten,Karin Josephs,Mnster,Germany
+10250,08-07-1996 00:00,HANAR,Hanari Carnes,Mario Pontes,Rio de Janeiro,Brazil
+10251,08-07-1996 00:00,VICTE,Victuailles en stock,Mary Saveley,Lyon,France
+10252,09-07-1996 00:00,SUPRD,Suprmes dlices,Pascale Cartrain,Charleroi,Belgium
+10253,10-07-1996 00:00,HANAR,Hanari Carnes,Mario Pontes,Rio de Janeiro,Brazil
+10254,11-07-1996 00:00,CHOPS,Chop-suey Chinese,Yang Wang,Bern,Switzerland
+10255,12-07-1996 00:00,RICSU,Richter Supermarkt,Michael Holz,Genve,Switzerland
+10256,15-07-1996 00:00,WELLI,Wellington Importadora,Paula Parente,Resende,Brazil
+10257,16-07-1996 00:00,HILAA,HILARION-Abastos,Carlos Hernndez,San Cristbal,Venezuela
+10258,17-07-1996 00:00,ERNSH,Ernst Handel,Roland Mendel,Graz,Austria
+10259,18-07-1996 00:00,CENTC,Centro comercial Moctezuma,Francisco Chang,Mxico D.F.,Mexico
+10260,19-07-1996 00:00,OTTIK,Ottilies Kseladen,Henriette Pfalzheim,Kln,Germany
+10261,19-07-1996 00:00,QUEDE,Que Delcia,Bernardo Batista,Rio de Janeiro,Brazil
+10262,22-07-1996 00:00,RATTC,Rattlesnake Canyon Grocery,Paula Wilson,Albuquerque,USA
+10263,23-07-1996 00:00,ERNSH,Ernst Handel,Roland Mendel,Graz,Austria
+10264,24-07-1996 00:00,FOLKO,Folk och f HB,Maria Larsson,Brcke,Sweden
+10265,25-07-1996 00:00,BLONP,Blondesddsl pre et fils,Frdrique Citeaux,Strasbourg,France
+10266,26-07-1996 00:00,WARTH,Wartian Herkku,Pirkko Koskitalo,Oulu,Finland
+10267,29-07-1996 00:00,FRANK,Frankenversand,Peter Franken,Mnchen,Germany
+10268,30-07-1996 00:00,GROSR,GROSELLA-Restaurante,Manuel Pereira,Caracas,Venezuela
+10269,31-07-1996 00:00,WHITC,White Clover Markets,Karl Jablonski,Seattle,USA
+10270,01-08-1996 00:00,WARTH,Wartian Herkku,Pirkko Koskitalo,Oulu,Finland
+10271,01-08-1996 00:00,SPLIR,Split Rail Beer & Ale,Art Braunschweiger,Lander,USA
+10272,02-08-1996 00:00,RATTC,Rattlesnake Canyon Grocery,Paula Wilson,Albuquerque,USA
+10273,05-08-1996 00:00,QUICK,QUICK-Stop,Horst Kloss,Cunewalde,Germany
+10274,06-08-1996 00:00,VINET,Vins et alcools Chevalier,Paul Henriot,Reims,France
+10275,07-08-1996 00:00,MAGAA,Magazzini Alimentari Riuniti,Giovanni Rovelli,Bergamo,Italy
+10276,08-08-1996 00:00,TORTU,Tortuga Restaurante,Miguel Angel Paolino,Mxico D.F.,Mexico
+10277,09-08-1996 00:00,MORGK,Morgenstern Gesundkost,Alexander Feuer,Leipzig,Germany
+10278,12-08-1996 00:00,BERGS,Berglunds snabbkp,Christina Berglund,Lule,Sweden
+10279,13-08-1996 00:00,LEHMS,Lehmanns Marktstand,Renate Messner,Frankfurt a.M.,Germany
+10280,14-08-1996 00:00,BERGS,Berglunds snabbkp,Christina Berglund,Lule,Sweden
+10281,14-08-1996 00:00,ROMEY,Romero y tomillo,Alejandra Camino,Madrid,Spain
+10282,15-08-1996 00:00,ROMEY,Romero y tomillo,Alejandra Camino,Madrid,Spain
+10283,16-08-1996 00:00,LILAS,LILA-Supermercado,Carlos Gonzlez,Barquisimeto,Venezuela
+10284,19-08-1996 00:00,LEHMS,Lehmanns Marktstand,Renate Messner,Frankfurt a.M.,Germany
+10285,20-08-1996 00:00,QUICK,QUICK-Stop,Horst Kloss,Cunewalde,Germany
+10286,21-08-1996 00:00,QUICK,QUICK-Stop,Horst Kloss,Cunewalde,Germany
+10287,22-08-1996 00:00,RICAR,Ricardo Adocicados,Janete Limeira,Rio de Janeiro,Brazil
+10288,23-08-1996 00:00,REGGC,Reggiani Caseifici,Maurizio Moroni,Reggio Emilia,Italy
+10289,26-08-1996 00:00,BSBEV,B's Beverages,Victoria Ashworth,London,UK
+10290,27-08-1996 00:00,COMMI,Comrcio Mineiro,Pedro Afonso,Sao Paulo,Brazil
+10291,27-08-1996 00:00,QUEDE,Que Delcia,Bernardo Batista,Rio de Janeiro,Brazil
+10292,28-08-1996 00:00,TRADH,Tradio Hipermercados,Anabela Domingues,Sao Paulo,Brazil
+10293,29-08-1996 00:00,TORTU,Tortuga Restaurante,Miguel Angel Paolino,Mxico D.F.,Mexico
+10294,30-08-1996 00:00,RATTC,Rattlesnake Canyon Grocery,Paula Wilson,Albuquerque,USA
+10295,02-09-1996 00:00,VINET,Vins et alcools Chevalier,Paul Henriot,Reims,France
+10296,03-09-1996 00:00,LILAS,LILA-Supermercado,Carlos Gonzlez,Barquisimeto,Venezuela
+10297,04-09-1996 00:00,BLONP,Blondesddsl pre et fils,Frdrique Citeaux,Strasbourg,France
+10298,05-09-1996 00:00,HUNGO,Hungry Owl All-Night Grocers,Patricia McKenna,Cork,Ireland
+10299,06-09-1996 00:00,RICAR,Ricardo Adocicados,Janete Limeira,Rio de Janeiro,Brazil
+10300,09-09-1996 00:00,MAGAA,Magazzini Alimentari Riuniti,Giovanni Rovelli,Bergamo,Italy
+10301,09-09-1996 00:00,WANDK,Die Wandernde Kuh,Rita Mller,Stuttgart,Germany
+10302,10-09-1996 00:00,SUPRD,Suprmes dlices,Pascale Cartrain,Charleroi,Belgium
+10303,11-09-1996 00:00,GODOS,Godos Cocina Tpica,Jos Pedro Freyre,Sevilla,Spain
+10304,12-09-1996 00:00,TORTU,Tortuga Restaurante,Miguel Angel Paolino,Mxico D.F.,Mexico
+10305,13-09-1996 00:00,OLDWO,Old World Delicatessen,Rene Phillips,Anchorage,USA
+10306,16-09-1996 00:00,ROMEY,Romero y tomillo,Alejandra Camino,Madrid,Spain
+10307,17-09-1996 00:00,LONEP,Lonesome Pine Restaurant,Fran Wilson,Portland,USA
+10308,18-09-1996 00:00,ANATR,Ana Trujillo Emparedados y helados,Ana Trujillo,Mxico D.F.,Mexico
+10309,19-09-1996 00:00,HUNGO,Hungry Owl All-Night Grocers,Patricia McKenna,Cork,Ireland
+10310,20-09-1996 00:00,THEBI,The Big Cheese,Liz Nixon,Portland,USA
+10311,20-09-1996 00:00,DUMON,Du monde entier,Janine Labrune,Nantes,France
+10312,23-09-1996 00:00,WANDK,Die Wandernde Kuh,Rita Mller,Stuttgart,Germany
+10313,24-09-1996 00:00,QUICK,QUICK-Stop,Horst Kloss,Cunewalde,Germany
+10314,25-09-1996 00:00,RATTC,Rattlesnake Canyon Grocery,Paula Wilson,Albuquerque,USA
+10315,26-09-1996 00:00,ISLAT,Island Trading,Helen Bennett,Cowes,UK
+10316,27-09-1996 00:00,RATTC,Rattlesnake Canyon Grocery,Paula Wilson,Albuquerque,USA
+10317,30-09-1996 00:00,LONEP,Lonesome Pine Restaurant,Fran Wilson,Portland,USA
+10318,01-10-1996 00:00,ISLAT,Island Trading,Helen Bennett,Cowes,UK
+10319,02-10-1996 00:00,TORTU,Tortuga Restaurante,Miguel Angel Paolino,Mxico D.F.,Mexico
+10320,03-10-1996 00:00,WARTH,Wartian Herkku,Pirkko Koskitalo,Oulu,Finland
+10321,03-10-1996 00:00,ISLAT,Island Trading,Helen Bennett,Cowes,UK
+10322,04-10-1996 00:00,PERIC,Pericles Comidas clsicas,Guillermo Fernndez,Mxico D.F.,Mexico
+10323,07-10-1996 00:00,KOENE,Kniglich Essen,Philip Cramer,Brandenburg,Germany
+10324,08-10-1996 00:00,SAVEA,Save-a-lot Markets,Jose Pavarotti,Boise,USA
+10325,09-10-1996 00:00,KOENE,Kniglich Essen,Philip Cramer,Brandenburg,Germany
+10326,10-10-1996 00:00,BOLID,Blido Comidas preparadas,Martn Sommer,Madrid,Spain
+10327,11-10-1996 00:00,FOLKO,Folk och f HB,Maria Larsson,Brcke,Sweden
+10328,14-10-1996 00:00,FURIB,Furia Bacalhau e Frutos do Mar,Lino Rodriguez,Lisboa,Portugal
+10329,15-10-1996 00:00,SPLIR,Split Rail Beer & Ale,Art Braunschweiger,Lander,USA
+10330,16-10-1996 00:00,LILAS,LILA-Supermercado,Carlos Gonzlez,Barquisimeto,Venezuela
+10331,16-10-1996 00:00,BONAP,Bon app',Laurence Lebihan,Marseille,France
+10332,17-10-1996 00:00,MEREP,Mre Paillarde,Jean Fresnire,Montral,Canada
+10333,18-10-1996 00:00,WARTH,Wartian Herkku,Pirkko Koskitalo,Oulu,Finland
+10334,21-10-1996 00:00,VICTE,Victuailles en stock,Mary Saveley,Lyon,France
+10335,22-10-1996 00:00,HUNGO,Hungry Owl All-Night Grocers,Patricia McKenna,Cork,Ireland
+10336,23-10-1996 00:00,PRINI,Princesa Isabel Vinhos,Isabel de Castro,Lisboa,Portugal
+10337,24-10-1996 00:00,FRANK,Frankenversand,Peter Franken,Mnchen,Germany
+10338,25-10-1996 00:00,OLDWO,Old World Delicatessen,Rene Phillips,Anchorage,USA
+10339,28-10-1996 00:00,MEREP,Mre Paillarde,Jean Fresnire,Montral,Canada
+10340,29-10-1996 00:00,BONAP,Bon app',Laurence Lebihan,Marseille,France
+10341,29-10-1996 00:00,SIMOB,Simons bistro,Jytte Petersen,Kobenhavn,Denmark
+10342,30-10-1996 00:00,FRANK,Frankenversand,Peter Franken,Mnchen,Germany
+10343,31-10-1996 00:00,LEHMS,Lehmanns Marktstand,Renate Messner,Frankfurt a.M.,Germany
+10344,01-11-1996 00:00,WHITC,White Clover Markets,Karl Jablonski,Seattle,USA
+10345,04-11-1996 00:00,QUICK,QUICK-Stop,Horst Kloss,Cunewalde,Germany
+10346,05-11-1996 00:00,RATTC,Rattlesnake Canyon Grocery,Paula Wilson,Albuquerque,USA
+10347,06-11-1996 00:00,FAMIA,Familia Arquibaldo,Aria Cruz,Sao Paulo,Brazil
+10348,07-11-1996 00:00,WANDK,Die Wandernde Kuh,Rita Mller,Stuttgart,Germany
+10349,08-11-1996 00:00,SPLIR,Split Rail Beer & Ale,Art Braunschweiger,Lander,USA
+10350,11-11-1996 00:00,LAMAI,La maison d'Asie,Annette Roulet,Toulouse,France
+10351,11-11-1996 00:00,ERNSH,Ernst Handel,Roland Mendel,Graz,Austria
+10352,12-11-1996 00:00,FURIB,Furia Bacalhau e Frutos do Mar,Lino Rodriguez,Lisboa,Portugal
+10353,13-11-1996 00:00,PICCO,Piccolo und mehr,Georg Pipps,Salzburg,Austria
+10354,14-11-1996 00:00,PERIC,Pericles Comidas clsicas,Guillermo Fernndez,Mxico D.F.,Mexico
+10355,15-11-1996 00:00,AROUT,Around the Horn,Thomas Hardy,London,UK
+10356,18-11-1996 00:00,WANDK,Die Wandernde Kuh,Rita Mller,Stuttgart,Germany
+10357,19-11-1996 00:00,LILAS,LILA-Supermercado,Carlos Gonzlez,Barquisimeto,Venezuela
+10358,20-11-1996 00:00,LAMAI,La maison d'Asie,Annette Roulet,Toulouse,France
+10359,21-11-1996 00:00,SEVES,Seven Seas Imports,Hari Kumar,London,UK
+10360,22-11-1996 00:00,BLONP,Blondesddsl pre et fils,Frdrique Citeaux,Strasbourg,France
+10361,22-11-1996 00:00,QUICK,QUICK-Stop,Horst Kloss,Cunewalde,Germany
+10362,25-11-1996 00:00,BONAP,Bon app',Laurence Lebihan,Marseille,France
+10363,26-11-1996 00:00,DRACD,Drachenblut Delikatessen,Sven Ottlieb,Aachen,Germany
+10364,26-11-1996 00:00,EASTC,Eastern Connection,Ann Devon,London,UK
+10365,27-11-1996 00:00,ANTON,Antonio Moreno Taquera,Antonio Moreno,Mxico D.F.,Mexico
+10366,28-11-1996 00:00,GALED,Galera del gastrnomo,Eduardo Saavedra,Barcelona,Spain
+10367,28-11-1996 00:00,VAFFE,Vaffeljernet,Palle Ibsen,rhus,Denmark
+10368,29-11-1996 00:00,ERNSH,Ernst Handel,Roland Mendel,Graz,Austria
+10369,02-12-1996 00:00,SPLIR,Split Rail Beer & Ale,Art Braunschweiger,Lander,USA
+10370,03-12-1996 00:00,CHOPS,Chop-suey Chinese,Yang Wang,Bern,Switzerland
+10371,03-12-1996 00:00,LAMAI,La maison d'Asie,Annette Roulet,Toulouse,France
+10372,04-12-1996 00:00,QUEEN,Queen Cozinha,Lcia Carvalho,Sao Paulo,Brazil
+10373,05-12-1996 00:00,HUNGO,Hungry Owl All-Night Grocers,Patricia McKenna,Cork,Ireland
+10374,05-12-1996 00:00,WOLZA,Wolski  Zajazd,Zbyszek Piestrzeniewicz,Warszawa,Poland
+10375,06-12-1996 00:00,HUNGC,Hungry Coyote Import Store,Yoshi Latimer,Elgin,USA
+10376,09-12-1996 00:00,MEREP,Mre Paillarde,Jean Fresnire,Montral,Canada
+10377,09-12-1996 00:00,SEVES,Seven Seas Imports,Hari Kumar,London,UK
+10378,10-12-1996 00:00,FOLKO,Folk och f HB,Maria Larsson,Brcke,Sweden
+10379,11-12-1996 00:00,QUEDE,Que Delcia,Bernardo Batista,Rio de Janeiro,Brazil
+10380,12-12-1996 00:00,HUNGO,Hungry Owl All-Night Grocers,Patricia McKenna,Cork,Ireland
+10381,12-12-1996 00:00,LILAS,LILA-Supermercado,Carlos Gonzlez,Barquisimeto,Venezuela
+10382,13-12-1996 00:00,ERNSH,Ernst Handel,Roland Mendel,Graz,Austria
+10383,16-12-1996 00:00,AROUT,Around the Horn,Thomas Hardy,London,UK
+10384,16-12-1996 00:00,BERGS,Berglunds snabbkp,Christina Berglund,Lule,Sweden
+10385,17-12-1996 00:00,SPLIR,Split Rail Beer & Ale,Art Braunschweiger,Lander,USA
+10386,18-12-1996 00:00,FAMIA,Familia Arquibaldo,Aria Cruz,Sao Paulo,Brazil
+10387,18-12-1996 00:00,SANTG,Sant Gourmet,Jonas Bergulfsen,Stavern,Norway
+10388,19-12-1996 00:00,SEVES,Seven Seas Imports,Hari Kumar,London,UK
+10389,20-12-1996 00:00,BOTTM,Bottom-Dollar Markets,Elizabeth Lincoln,Tsawassen,Canada
+10390,23-12-1996 00:00,ERNSH,Ernst Handel,Roland Mendel,Graz,Austria
+10391,23-12-1996 00:00,DRACD,Drachenblut Delikatessen,Sven Ottlieb,Aachen,Germany
+10392,24-12-1996 00:00,PICCO,Piccolo und mehr,Georg Pipps,Salzburg,Austria
+10393,25-12-1996 00:00,SAVEA,Save-a-lot Markets,Jose Pavarotti,Boise,USA
+10394,25-12-1996 00:00,HUNGC,Hungry Coyote Import Store,Yoshi Latimer,Elgin,USA
+10395,26-12-1996 00:00,HILAA,HILARION-Abastos,Carlos Hernndez,San Cristbal,Venezuela
+10396,27-12-1996 00:00,FRANK,Frankenversand,Peter Franken,Mnchen,Germany
+10397,27-12-1996 00:00,PRINI,Princesa Isabel Vinhos,Isabel de Castro,Lisboa,Portugal
+10398,30-12-1996 00:00,SAVEA,Save-a-lot Markets,Jose Pavarotti,Boise,USA
+10399,31-12-1996 00:00,VAFFE,Vaffeljernet,Palle Ibsen,rhus,Denmark
+10400,01-01-1997 00:00,EASTC,Eastern Connection,Ann Devon,London,UK
+10401,01-01-1997 00:00,RATTC,Rattlesnake Canyon Grocery,Paula Wilson,Albuquerque,USA
+10402,02-01-1997 00:00,ERNSH,Ernst Handel,Roland Mendel,Graz,Austria
+10403,03-01-1997 00:00,ERNSH,Ernst Handel,Roland Mendel,Graz,Austria
+10404,03-01-1997 00:00,MAGAA,Magazzini Alimentari Riuniti,Giovanni Rovelli,Bergamo,Italy
+10405,06-01-1997 00:00,LINOD,LINO-Delicateses,Felipe Izquierdo,I. de Margarita,Venezuela
+10406,07-01-1997 00:00,QUEEN,Queen Cozinha,Lcia Carvalho,Sao Paulo,Brazil
+10407,07-01-1997 00:00,OTTIK,Ottilies Kseladen,Henriette Pfalzheim,Kln,Germany
+10408,08-01-1997 00:00,FOLIG,Folies gourmandes,Martine Ranc,Lille,France
+10409,09-01-1997 00:00,OCEAN,Ocano Atlntico Ltda.,Yvonne Moncada,Buenos Aires,Argentina
+10410,10-01-1997 00:00,BOTTM,Bottom-Dollar Markets,Elizabeth Lincoln,Tsawassen,Canada
+10411,10-01-1997 00:00,BOTTM,Bottom-Dollar Markets,Elizabeth Lincoln,Tsawassen,Canada
+10412,13-01-1997 00:00,WARTH,Wartian Herkku,Pirkko Koskitalo,Oulu,Finland
+10413,14-01-1997 00:00,LAMAI,La maison d'Asie,Annette Roulet,Toulouse,France
+10414,14-01-1997 00:00,FAMIA,Familia Arquibaldo,Aria Cruz,Sao Paulo,Brazil
+10415,15-01-1997 00:00,HUNGC,Hungry Coyote Import Store,Yoshi Latimer,Elgin,USA
+10416,16-01-1997 00:00,WARTH,Wartian Herkku,Pirkko Koskitalo,Oulu,Finland
+10417,16-01-1997 00:00,SIMOB,Simons bistro,Jytte Petersen,Kobenhavn,Denmark
+10418,17-01-1997 00:00,QUICK,QUICK-Stop,Horst Kloss,Cunewalde,Germany
+10419,20-01-1997 00:00,RICSU,Richter Supermarkt,Michael Holz,Genve,Switzerland
+10420,21-01-1997 00:00,WELLI,Wellington Importadora,Paula Parente,Resende,Brazil
+10421,21-01-1997 00:00,QUEDE,Que Delcia,Bernardo Batista,Rio de Janeiro,Brazil
+10422,22-01-1997 00:00,FRANS,Franchi S.p.A.,Paolo Accorti,Torino,Italy
+10423,23-01-1997 00:00,GOURL,Gourmet Lanchonetes,Andr Fonseca,Campinas,Brazil
+10424,23-01-1997 00:00,MEREP,Mre Paillarde,Jean Fresnire,Montral,Canada
+10425,24-01-1997 00:00,LAMAI,La maison d'Asie,Annette Roulet,Toulouse,France
+10426,27-01-1997 00:00,GALED,Galera del gastrnomo,Eduardo Saavedra,Barcelona,Spain
+10427,27-01-1997 00:00,PICCO,Piccolo und mehr,Georg Pipps,Salzburg,Austria
+10428,28-01-1997 00:00,REGGC,Reggiani Caseifici,Maurizio Moroni,Reggio Emilia,Italy
+10429,29-01-1997 00:00,HUNGO,Hungry Owl All-Night Grocers,Patricia McKenna,Cork,Ireland
+10430,30-01-1997 00:00,ERNSH,Ernst Handel,Roland Mendel,Graz,Austria
+10431,30-01-1997 00:00,BOTTM,Bottom-Dollar Markets,Elizabeth Lincoln,Tsawassen,Canada
+10432,31-01-1997 00:00,SPLIR,Split Rail Beer & Ale,Art Braunschweiger,Lander,USA
+10433,03-02-1997 00:00,PRINI,Princesa Isabel Vinhos,Isabel de Castro,Lisboa,Portugal
+10434,03-02-1997 00:00,FOLKO,Folk och f HB,Maria Larsson,Brcke,Sweden
+10435,04-02-1997 00:00,CONSH,Consolidated Holdings,Elizabeth Brown,London,UK
+10436,05-02-1997 00:00,BLONP,Blondesddsl pre et fils,Frdrique Citeaux,Strasbourg,France
+10437,05-02-1997 00:00,WARTH,Wartian Herkku,Pirkko Koskitalo,Oulu,Finland
+10438,06-02-1997 00:00,TOMSP,Toms Spezialitten,Karin Josephs,Mnster,Germany
+10439,07-02-1997 00:00,MEREP,Mre Paillarde,Jean Fresnire,Montral,Canada
+10440,10-02-1997 00:00,SAVEA,Save-a-lot Markets,Jose Pavarotti,Boise,USA
+10441,10-02-1997 00:00,OLDWO,Old World Delicatessen,Rene Phillips,Anchorage,USA
+10442,11-02-1997 00:00,ERNSH,Ernst Handel,Roland Mendel,Graz,Austria
+10443,12-02-1997 00:00,REGGC,Reggiani Caseifici,Maurizio Moroni,Reggio Emilia,Italy
+10444,12-02-1997 00:00,BERGS,Berglunds snabbkp,Christina Berglund,Lule,Sweden
+10445,13-02-1997 00:00,BERGS,Berglunds snabbkp,Christina Berglund,Lule,Sweden
+10446,14-02-1997 00:00,TOMSP,Toms Spezialitten,Karin Josephs,Mnster,Germany
+10447,14-02-1997 00:00,RICAR,Ricardo Adocicados,Janete Limeira,Rio de Janeiro,Brazil
+10448,17-02-1997 00:00,RANCH,Rancho grande,Sergio Gutirrez,Buenos Aires,Argentina
+10449,18-02-1997 00:00,BLONP,Blondesddsl pre et fils,Frdrique Citeaux,Strasbourg,France
+10450,19-02-1997 00:00,VICTE,Victuailles en stock,Mary Saveley,Lyon,France
+10451,19-02-1997 00:00,QUICK,QUICK-Stop,Horst Kloss,Cunewalde,Germany
+10452,20-02-1997 00:00,SAVEA,Save-a-lot Markets,Jose Pavarotti,Boise,USA
+10453,21-02-1997 00:00,AROUT,Around the Horn,Thomas Hardy,London,UK
+10454,21-02-1997 00:00,LAMAI,La maison d'Asie,Annette Roulet,Toulouse,France
+10455,24-02-1997 00:00,WARTH,Wartian Herkku,Pirkko Koskitalo,Oulu,Finland
+10456,25-02-1997 00:00,KOENE,Kniglich Essen,Philip Cramer,Brandenburg,Germany
+10457,25-02-1997 00:00,KOENE,Kniglich Essen,Philip Cramer,Brandenburg,Germany
+10458,26-02-1997 00:00,SUPRD,Suprmes dlices,Pascale Cartrain,Charleroi,Belgium
+10459,27-02-1997 00:00,VICTE,Victuailles en stock,Mary Saveley,Lyon,France
+10460,28-02-1997 00:00,FOLKO,Folk och f HB,Maria Larsson,Brcke,Sweden
+10461,28-02-1997 00:00,LILAS,LILA-Supermercado,Carlos Gonzlez,Barquisimeto,Venezuela
+10462,03-03-1997 00:00,CONSH,Consolidated Holdings,Elizabeth Brown,London,UK
+10463,04-03-1997 00:00,SUPRD,Suprmes dlices,Pascale Cartrain,Charleroi,Belgium
+10464,04-03-1997 00:00,FURIB,Furia Bacalhau e Frutos do Mar,Lino Rodriguez,Lisboa,Portugal
+10465,05-03-1997 00:00,VAFFE,Vaffeljernet,Palle Ibsen,rhus,Denmark
+10466,06-03-1997 00:00,COMMI,Comrcio Mineiro,Pedro Afonso,Sao Paulo,Brazil
+10467,06-03-1997 00:00,MAGAA,Magazzini Alimentari Riuniti,Giovanni Rovelli,Bergamo,Italy
+10468,07-03-1997 00:00,KOENE,Kniglich Essen,Philip Cramer,Brandenburg,Germany
+10469,10-03-1997 00:00,WHITC,White Clover Markets,Karl Jablonski,Seattle,USA
+10470,11-03-1997 00:00,BONAP,Bon app',Laurence Lebihan,Marseille,France
+10471,11-03-1997 00:00,BSBEV,B's Beverages,Victoria Ashworth,London,UK
+10472,12-03-1997 00:00,SEVES,Seven Seas Imports,Hari Kumar,London,UK
+10473,13-03-1997 00:00,ISLAT,Island Trading,Helen Bennett,Cowes,UK
+10474,13-03-1997 00:00,PERIC,Pericles Comidas clsicas,Guillermo Fernndez,Mxico D.F.,Mexico
+10475,14-03-1997 00:00,SUPRD,Suprmes dlices,Pascale Cartrain,Charleroi,Belgium
+10476,17-03-1997 00:00,HILAA,HILARION-Abastos,Carlos Hernndez,San Cristbal,Venezuela
+10477,17-03-1997 00:00,PRINI,Princesa Isabel Vinhos,Isabel de Castro,Lisboa,Portugal
+10478,18-03-1997 00:00,VICTE,Victuailles en stock,Mary Saveley,Lyon,France
+10479,19-03-1997 00:00,RATTC,Rattlesnake Canyon Grocery,Paula Wilson,Albuquerque,USA
+10480,20-03-1997 00:00,FOLIG,Folies gourmandes,Martine Ranc,Lille,France
+10481,20-03-1997 00:00,RICAR,Ricardo Adocicados,Janete Limeira,Rio de Janeiro,Brazil
+10482,21-03-1997 00:00,LAZYK,Lazy K Kountry Store,John Steel,Walla Walla,USA
+10483,24-03-1997 00:00,WHITC,White Clover Markets,Karl Jablonski,Seattle,USA
+10484,24-03-1997 00:00,BSBEV,B's Beverages,Victoria Ashworth,London,UK
+10485,25-03-1997 00:00,LINOD,LINO-Delicateses,Felipe Izquierdo,I. de Margarita,Venezuela
+10486,26-03-1997 00:00,HILAA,HILARION-Abastos,Carlos Hernndez,San Cristbal,Venezuela
+10487,26-03-1997 00:00,QUEEN,Queen Cozinha,Lcia Carvalho,Sao Paulo,Brazil
+10488,27-03-1997 00:00,FRANK,Frankenversand,Peter Franken,Mnchen,Germany
+10489,28-03-1997 00:00,PICCO,Piccolo und mehr,Georg Pipps,Salzburg,Austria
+10490,31-03-1997 00:00,HILAA,HILARION-Abastos,Carlos Hernndez,San Cristbal,Venezuela
+10491,31-03-1997 00:00,FURIB,Furia Bacalhau e Frutos do Mar,Lino Rodriguez,Lisboa,Portugal
+10492,01-04-1997 00:00,BOTTM,Bottom-Dollar Markets,Elizabeth Lincoln,Tsawassen,Canada
+10493,02-04-1997 00:00,LAMAI,La maison d'Asie,Annette Roulet,Toulouse,France
+10494,02-04-1997 00:00,COMMI,Comrcio Mineiro,Pedro Afonso,Sao Paulo,Brazil
+10495,03-04-1997 00:00,LAUGB,Laughing Bacchus Wine Cellars,Yoshi Tannamuri,Vancouver,Canada
+10496,04-04-1997 00:00,TRADH,Tradio Hipermercados,Anabela Domingues,Sao Paulo,Brazil
+10497,04-04-1997 00:00,LEHMS,Lehmanns Marktstand,Renate Messner,Frankfurt a.M.,Germany
+10498,07-04-1997 00:00,HILAA,HILARION-Abastos,Carlos Hernndez,San Cristbal,Venezuela
+10499,08-04-1997 00:00,LILAS,LILA-Supermercado,Carlos Gonzlez,Barquisimeto,Venezuela
+10500,09-04-1997 00:00,LAMAI,La maison d'Asie,Annette Roulet,Toulouse,France
+10501,09-04-1997 00:00,BLAUS,Blauer See Delikatessen,Hanna Moos,Mannheim,Germany
+10502,10-04-1997 00:00,PERIC,Pericles Comidas clsicas,Guillermo Fernndez,Mxico D.F.,Mexico
+10503,11-04-1997 00:00,HUNGO,Hungry Owl All-Night Grocers,Patricia McKenna,Cork,Ireland
+10504,11-04-1997 00:00,WHITC,White Clover Markets,Karl Jablonski,Seattle,USA
+10505,14-04-1997 00:00,MEREP,Mre Paillarde,Jean Fresnire,Montral,Canada
+10506,15-04-1997 00:00,KOENE,Kniglich Essen,Philip Cramer,Brandenburg,Germany
+10507,15-04-1997 00:00,ANTON,Antonio Moreno Taquera,Antonio Moreno,Mxico D.F.,Mexico
+10508,16-04-1997 00:00,OTTIK,Ottilies Kseladen,Henriette Pfalzheim,Kln,Germany
+10509,17-04-1997 00:00,BLAUS,Blauer See Delikatessen,Hanna Moos,Mannheim,Germany
+10510,18-04-1997 00:00,SAVEA,Save-a-lot Markets,Jose Pavarotti,Boise,USA
+10511,18-04-1997 00:00,BONAP,Bon app',Laurence Lebihan,Marseille,France
+10512,21-04-1997 00:00,FAMIA,Familia Arquibaldo,Aria Cruz,Sao Paulo,Brazil
+10513,22-04-1997 00:00,WANDK,Die Wandernde Kuh,Rita Mller,Stuttgart,Germany
+10514,22-04-1997 00:00,ERNSH,Ernst Handel,Roland Mendel,Graz,Austria
+10515,23-04-1997 00:00,QUICK,QUICK-Stop,Horst Kloss,Cunewalde,Germany
+10516,24-04-1997 00:00,HUNGO,Hungry Owl All-Night Grocers,Patricia McKenna,Cork,Ireland
+10517,24-04-1997 00:00,NORTS,North/South,Simon Crowther,London,UK
+10518,25-04-1997 00:00,TORTU,Tortuga Restaurante,Miguel Angel Paolino,Mxico D.F.,Mexico
+10519,28-04-1997 00:00,CHOPS,Chop-suey Chinese,Yang Wang,Bern,Switzerland
+10520,29-04-1997 00:00,SANTG,Sant Gourmet,Jonas Bergulfsen,Stavern,Norway
+10521,29-04-1997 00:00,CACTU,Cactus Comidas para llevar,Patricio Simpson,Buenos Aires,Argentina
+10522,30-04-1997 00:00,LEHMS,Lehmanns Marktstand,Renate Messner,Frankfurt a.M.,Germany
+10523,01-05-1997 00:00,SEVES,Seven Seas Imports,Hari Kumar,London,UK
+10524,01-05-1997 00:00,BERGS,Berglunds snabbkp,Christina Berglund,Lule,Sweden
+10525,02-05-1997 00:00,BONAP,Bon app',Laurence Lebihan,Marseille,France
+10526,05-05-1997 00:00,WARTH,Wartian Herkku,Pirkko Koskitalo,Oulu,Finland
+10527,05-05-1997 00:00,QUICK,QUICK-Stop,Horst Kloss,Cunewalde,Germany
+10528,06-05-1997 00:00,GREAL,Great Lakes Food Market,Howard Snyder,Eugene,USA
+10529,07-05-1997 00:00,MAISD,Maison Dewey,Catherine Dewey,Bruxelles,Belgium
+10530,08-05-1997 00:00,PICCO,Piccolo und mehr,Georg Pipps,Salzburg,Austria
+10531,08-05-1997 00:00,OCEAN,Ocano Atlntico Ltda.,Yvonne Moncada,Buenos Aires,Argentina
+10532,09-05-1997 00:00,EASTC,Eastern Connection,Ann Devon,London,UK
+10533,12-05-1997 00:00,FOLKO,Folk och f HB,Maria Larsson,Brcke,Sweden
+10534,12-05-1997 00:00,LEHMS,Lehmanns Marktstand,Renate Messner,Frankfurt a.M.,Germany
+10535,13-05-1997 00:00,ANTON,Antonio Moreno Taquera,Antonio Moreno,Mxico D.F.,Mexico
+10536,14-05-1997 00:00,LEHMS,Lehmanns Marktstand,Renate Messner,Frankfurt a.M.,Germany
+10537,14-05-1997 00:00,RICSU,Richter Supermarkt,Michael Holz,Genve,Switzerland
+10538,15-05-1997 00:00,BSBEV,B's Beverages,Victoria Ashworth,London,UK
+10539,16-05-1997 00:00,BSBEV,B's Beverages,Victoria Ashworth,London,UK
+10540,19-05-1997 00:00,QUICK,QUICK-Stop,Horst Kloss,Cunewalde,Germany
+10541,19-05-1997 00:00,HANAR,Hanari Carnes,Mario Pontes,Rio de Janeiro,Brazil
+10542,20-05-1997 00:00,KOENE,Kniglich Essen,Philip Cramer,Brandenburg,Germany
+10543,21-05-1997 00:00,LILAS,LILA-Supermercado,Carlos Gonzlez,Barquisimeto,Venezuela
+10544,21-05-1997 00:00,LONEP,Lonesome Pine Restaurant,Fran Wilson,Portland,USA
+10545,22-05-1997 00:00,LAZYK,Lazy K Kountry Store,John Steel,Walla Walla,USA
+10546,23-05-1997 00:00,VICTE,Victuailles en stock,Mary Saveley,Lyon,France
+10547,23-05-1997 00:00,SEVES,Seven Seas Imports,Hari Kumar,London,UK
+10548,26-05-1997 00:00,TOMSP,Toms Spezialitten,Karin Josephs,Mnster,Germany
+10549,27-05-1997 00:00,QUICK,QUICK-Stop,Horst Kloss,Cunewalde,Germany
+10550,28-05-1997 00:00,GODOS,Godos Cocina Tpica,Jos Pedro Freyre,Sevilla,Spain
+10551,28-05-1997 00:00,FURIB,Furia Bacalhau e Frutos do Mar,Lino Rodriguez,Lisboa,Portugal
+10552,29-05-1997 00:00,HILAA,HILARION-Abastos,Carlos Hernndez,San Cristbal,Venezuela
+10553,30-05-1997 00:00,WARTH,Wartian Herkku,Pirkko Koskitalo,Oulu,Finland
+10554,30-05-1997 00:00,OTTIK,Ottilies Kseladen,Henriette Pfalzheim,Kln,Germany
+10555,02-06-1997 00:00,SAVEA,Save-a-lot Markets,Jose Pavarotti,Boise,USA
+10556,03-06-1997 00:00,SIMOB,Simons bistro,Jytte Petersen,Kobenhavn,Denmark
+10557,03-06-1997 00:00,LEHMS,Lehmanns Marktstand,Renate Messner,Frankfurt a.M.,Germany
+10558,04-06-1997 00:00,AROUT,Around the Horn,Thomas Hardy,London,UK
+10559,05-06-1997 00:00,BLONP,Blondesddsl pre et fils,Frdrique Citeaux,Strasbourg,France
+10560,06-06-1997 00:00,FRANK,Frankenversand,Peter Franken,Mnchen,Germany
+10561,06-06-1997 00:00,FOLKO,Folk och f HB,Maria Larsson,Brcke,Sweden
+10562,09-06-1997 00:00,REGGC,Reggiani Caseifici,Maurizio Moroni,Reggio Emilia,Italy
+10563,10-06-1997 00:00,RICAR,Ricardo Adocicados,Janete Limeira,Rio de Janeiro,Brazil
+10564,10-06-1997 00:00,RATTC,Rattlesnake Canyon Grocery,Paula Wilson,Albuquerque,USA
+10565,11-06-1997 00:00,MEREP,Mre Paillarde,Jean Fresnire,Montral,Canada
+10566,12-06-1997 00:00,BLONP,Blondesddsl pre et fils,Frdrique Citeaux,Strasbourg,France
+10567,12-06-1997 00:00,HUNGO,Hungry Owl All-Night Grocers,Patricia McKenna,Cork,Ireland
+10568,13-06-1997 00:00,GALED,Galera del gastrnomo,Eduardo Saavedra,Barcelona,Spain
+10569,16-06-1997 00:00,RATTC,Rattlesnake Canyon Grocery,Paula Wilson,Albuquerque,USA
+10570,17-06-1997 00:00,MEREP,Mre Paillarde,Jean Fresnire,Montral,Canada
+10571,17-06-1997 00:00,ERNSH,Ernst Handel,Roland Mendel,Graz,Austria
+10572,18-06-1997 00:00,BERGS,Berglunds snabbkp,Christina Berglund,Lule,Sweden
+10573,19-06-1997 00:00,ANTON,Antonio Moreno Taquera,Antonio Moreno,Mxico D.F.,Mexico
+10574,19-06-1997 00:00,TRAIH,Trail's Head Gourmet Provisioners,Helvetius Nagy,Kirkland,USA
+10575,20-06-1997 00:00,MORGK,Morgenstern Gesundkost,Alexander Feuer,Leipzig,Germany
+10576,23-06-1997 00:00,TORTU,Tortuga Restaurante,Miguel Angel Paolino,Mxico D.F.,Mexico
+10577,23-06-1997 00:00,TRAIH,Trail's Head Gourmet Provisioners,Helvetius Nagy,Kirkland,USA
+10578,24-06-1997 00:00,BSBEV,B's Beverages,Victoria Ashworth,London,UK
+10579,25-06-1997 00:00,LETSS,Let's Stop N Shop,Jaime Yorres,San Francisco,USA
+10580,26-06-1997 00:00,OTTIK,Ottilies Kseladen,Henriette Pfalzheim,Kln,Germany
+10581,26-06-1997 00:00,FAMIA,Familia Arquibaldo,Aria Cruz,Sao Paulo,Brazil
+10582,27-06-1997 00:00,BLAUS,Blauer See Delikatessen,Hanna Moos,Mannheim,Germany
+10583,30-06-1997 00:00,WARTH,Wartian Herkku,Pirkko Koskitalo,Oulu,Finland
+10584,30-06-1997 00:00,BLONP,Blondesddsl pre et fils,Frdrique Citeaux,Strasbourg,France
+10585,01-07-1997 00:00,WELLI,Wellington Importadora,Paula Parente,Resende,Brazil
+10586,02-07-1997 00:00,REGGC,Reggiani Caseifici,Maurizio Moroni,Reggio Emilia,Italy
+10587,02-07-1997 00:00,QUEDE,Que Delcia,Bernardo Batista,Rio de Janeiro,Brazil
+10588,03-07-1997 00:00,QUICK,QUICK-Stop,Horst Kloss,Cunewalde,Germany
+10589,04-07-1997 00:00,GREAL,Great Lakes Food Market,Howard Snyder,Eugene,USA
+10590,07-07-1997 00:00,MEREP,Mre Paillarde,Jean Fresnire,Montral,Canada
+10591,07-07-1997 00:00,VAFFE,Vaffeljernet,Palle Ibsen,rhus,Denmark
+10592,08-07-1997 00:00,LEHMS,Lehmanns Marktstand,Renate Messner,Frankfurt a.M.,Germany
+10593,09-07-1997 00:00,LEHMS,Lehmanns Marktstand,Renate Messner,Frankfurt a.M.,Germany
+10594,09-07-1997 00:00,OLDWO,Old World Delicatessen,Rene Phillips,Anchorage,USA
+10595,10-07-1997 00:00,ERNSH,Ernst Handel,Roland Mendel,Graz,Austria
+10596,11-07-1997 00:00,WHITC,White Clover Markets,Karl Jablonski,Seattle,USA
+10597,11-07-1997 00:00,PICCO,Piccolo und mehr,Georg Pipps,Salzburg,Austria
+10598,14-07-1997 00:00,RATTC,Rattlesnake Canyon Grocery,Paula Wilson,Albuquerque,USA
+10599,15-07-1997 00:00,BSBEV,B's Beverages,Victoria Ashworth,London,UK
+10600,16-07-1997 00:00,HUNGC,Hungry Coyote Import Store,Yoshi Latimer,Elgin,USA
+10601,16-07-1997 00:00,HILAA,HILARION-Abastos,Carlos Hernndez,San Cristbal,Venezuela
+10602,17-07-1997 00:00,VAFFE,Vaffeljernet,Palle Ibsen,rhus,Denmark
+10603,18-07-1997 00:00,SAVEA,Save-a-lot Markets,Jose Pavarotti,Boise,USA
+10604,18-07-1997 00:00,FURIB,Furia Bacalhau e Frutos do Mar,Lino Rodriguez,Lisboa,Portugal
+10605,21-07-1997 00:00,MEREP,Mre Paillarde,Jean Fresnire,Montral,Canada
+10606,22-07-1997 00:00,TRADH,Tradio Hipermercados,Anabela Domingues,Sao Paulo,Brazil
+10607,22-07-1997 00:00,SAVEA,Save-a-lot Markets,Jose Pavarotti,Boise,USA
+10608,23-07-1997 00:00,TOMSP,Toms Spezialitten,Karin Josephs,Mnster,Germany
+10609,24-07-1997 00:00,DUMON,Du monde entier,Janine Labrune,Nantes,France
+10610,25-07-1997 00:00,LAMAI,La maison d'Asie,Annette Roulet,Toulouse,France
+10611,25-07-1997 00:00,WOLZA,Wolski  Zajazd,Zbyszek Piestrzeniewicz,Warszawa,Poland
+10612,28-07-1997 00:00,SAVEA,Save-a-lot Markets,Jose Pavarotti,Boise,USA
+10613,29-07-1997 00:00,HILAA,HILARION-Abastos,Carlos Hernndez,San Cristbal,Venezuela
+10614,29-07-1997 00:00,BLAUS,Blauer See Delikatessen,Hanna Moos,Mannheim,Germany
+10615,30-07-1997 00:00,WILMK,Wilman Kala,Matti Karttunen,Helsinki,Finland
+10616,31-07-1997 00:00,GREAL,Great Lakes Food Market,Howard Snyder,Eugene,USA
+10617,31-07-1997 00:00,GREAL,Great Lakes Food Market,Howard Snyder,Eugene,USA
+10618,01-08-1997 00:00,MEREP,Mre Paillarde,Jean Fresnire,Montral,Canada
+10619,04-08-1997 00:00,MEREP,Mre Paillarde,Jean Fresnire,Montral,Canada
+10620,05-08-1997 00:00,LAUGB,Laughing Bacchus Wine Cellars,Yoshi Tannamuri,Vancouver,Canada
+10621,05-08-1997 00:00,ISLAT,Island Trading,Helen Bennett,Cowes,UK
+10622,06-08-1997 00:00,RICAR,Ricardo Adocicados,Janete Limeira,Rio de Janeiro,Brazil
+10623,07-08-1997 00:00,FRANK,Frankenversand,Peter Franken,Mnchen,Germany
+10624,07-08-1997 00:00,THECR,The Cracker Box,Liu Wong,Butte,USA
+10625,08-08-1997 00:00,ANATR,Ana Trujillo Emparedados y helados,Ana Trujillo,Mxico D.F.,Mexico
+10626,11-08-1997 00:00,BERGS,Berglunds snabbkp,Christina Berglund,Lule,Sweden
+10627,11-08-1997 00:00,SAVEA,Save-a-lot Markets,Jose Pavarotti,Boise,USA
+10628,12-08-1997 00:00,BLONP,Blondesddsl pre et fils,Frdrique Citeaux,Strasbourg,France
+10629,12-08-1997 00:00,GODOS,Godos Cocina Tpica,Jos Pedro Freyre,Sevilla,Spain
+10630,13-08-1997 00:00,KOENE,Kniglich Essen,Philip Cramer,Brandenburg,Germany
+10631,14-08-1997 00:00,LAMAI,La maison d'Asie,Annette Roulet,Toulouse,France
+10632,14-08-1997 00:00,WANDK,Die Wandernde Kuh,Rita Mller,Stuttgart,Germany
+10633,15-08-1997 00:00,ERNSH,Ernst Handel,Roland Mendel,Graz,Austria
+10634,15-08-1997 00:00,FOLIG,Folies gourmandes,Martine Ranc,Lille,France
+10635,18-08-1997 00:00,MAGAA,Magazzini Alimentari Riuniti,Giovanni Rovelli,Bergamo,Italy
+10636,19-08-1997 00:00,WARTH,Wartian Herkku,Pirkko Koskitalo,Oulu,Finland
+10637,19-08-1997 00:00,QUEEN,Queen Cozinha,Lcia Carvalho,Sao Paulo,Brazil
+10638,20-08-1997 00:00,LINOD,LINO-Delicateses,Felipe Izquierdo,I. de Margarita,Venezuela
+10639,20-08-1997 00:00,SANTG,Sant Gourmet,Jonas Bergulfsen,Stavern,Norway
+10640,21-08-1997 00:00,WANDK,Die Wandernde Kuh,Rita Mller,Stuttgart,Germany
+10641,22-08-1997 00:00,HILAA,HILARION-Abastos,Carlos Hernndez,San Cristbal,Venezuela
+10642,22-08-1997 00:00,SIMOB,Simons bistro,Jytte Petersen,Kobenhavn,Denmark
+10643,25-08-1997 00:00,ALFKI,Alfreds Futterkiste,Maria Anders,Berlin,Germany
+10644,25-08-1997 00:00,WELLI,Wellington Importadora,Paula Parente,Resende,Brazil
+10645,26-08-1997 00:00,HANAR,Hanari Carnes,Mario Pontes,Rio de Janeiro,Brazil
+10646,27-08-1997 00:00,HUNGO,Hungry Owl All-Night Grocers,Patricia McKenna,Cork,Ireland
+10647,27-08-1997 00:00,QUEDE,Que Delcia,Bernardo Batista,Rio de Janeiro,Brazil
+10648,28-08-1997 00:00,RICAR,Ricardo Adocicados,Janete Limeira,Rio de Janeiro,Brazil
+10649,28-08-1997 00:00,MAISD,Maison Dewey,Catherine Dewey,Bruxelles,Belgium
+10650,29-08-1997 00:00,FAMIA,Familia Arquibaldo,Aria Cruz,Sao Paulo,Brazil
+10651,01-09-1997 00:00,WANDK,Die Wandernde Kuh,Rita Mller,Stuttgart,Germany
+10652,01-09-1997 00:00,GOURL,Gourmet Lanchonetes,Andr Fonseca,Campinas,Brazil
+10653,02-09-1997 00:00,FRANK,Frankenversand,Peter Franken,Mnchen,Germany
+10654,02-09-1997 00:00,BERGS,Berglunds snabbkp,Christina Berglund,Lule,Sweden
+10655,03-09-1997 00:00,REGGC,Reggiani Caseifici,Maurizio Moroni,Reggio Emilia,Italy
+10656,04-09-1997 00:00,GREAL,Great Lakes Food Market,Howard Snyder,Eugene,USA
+10657,04-09-1997 00:00,SAVEA,Save-a-lot Markets,Jose Pavarotti,Boise,USA
+10658,05-09-1997 00:00,QUICK,QUICK-Stop,Horst Kloss,Cunewalde,Germany
+10659,05-09-1997 00:00,QUEEN,Queen Cozinha,Lcia Carvalho,Sao Paulo,Brazil
+10660,08-09-1997 00:00,HUNGC,Hungry Coyote Import Store,Yoshi Latimer,Elgin,USA
+10661,09-09-1997 00:00,HUNGO,Hungry Owl All-Night Grocers,Patricia McKenna,Cork,Ireland
+10662,09-09-1997 00:00,LONEP,Lonesome Pine Restaurant,Fran Wilson,Portland,USA
+10663,10-09-1997 00:00,BONAP,Bon app',Laurence Lebihan,Marseille,France
+10664,10-09-1997 00:00,FURIB,Furia Bacalhau e Frutos do Mar,Lino Rodriguez,Lisboa,Portugal
+10665,11-09-1997 00:00,LONEP,Lonesome Pine Restaurant,Fran Wilson,Portland,USA
+10666,12-09-1997 00:00,RICSU,Richter Supermarkt,Michael Holz,Genve,Switzerland
+10667,12-09-1997 00:00,ERNSH,Ernst Handel,Roland Mendel,Graz,Austria
+10668,15-09-1997 00:00,WANDK,Die Wandernde Kuh,Rita Mller,Stuttgart,Germany
+10669,15-09-1997 00:00,SIMOB,Simons bistro,Jytte Petersen,Kobenhavn,Denmark
+10670,16-09-1997 00:00,FRANK,Frankenversand,Peter Franken,Mnchen,Germany
+10671,17-09-1997 00:00,FRANR,France restauration,Carine Schmitt,Nantes,France
+10672,17-09-1997 00:00,BERGS,Berglunds snabbkp,Christina Berglund,Lule,Sweden
+10673,18-09-1997 00:00,WILMK,Wilman Kala,Matti Karttunen,Helsinki,Finland
+10674,18-09-1997 00:00,ISLAT,Island Trading,Helen Bennett,Cowes,UK
+10675,19-09-1997 00:00,FRANK,Frankenversand,Peter Franken,Mnchen,Germany
+10676,22-09-1997 00:00,TORTU,Tortuga Restaurante,Miguel Angel Paolino,Mxico D.F.,Mexico
+10677,22-09-1997 00:00,ANTON,Antonio Moreno Taquera,Antonio Moreno,Mxico D.F.,Mexico
+10678,23-09-1997 00:00,SAVEA,Save-a-lot Markets,Jose Pavarotti,Boise,USA
+10679,23-09-1997 00:00,BLONP,Blondesddsl pre et fils,Frdrique Citeaux,Strasbourg,France
+10680,24-09-1997 00:00,OLDWO,Old World Delicatessen,Rene Phillips,Anchorage,USA
+10681,25-09-1997 00:00,GREAL,Great Lakes Food Market,Howard Snyder,Eugene,USA
+10682,25-09-1997 00:00,ANTON,Antonio Moreno Taquera,Antonio Moreno,Mxico D.F.,Mexico
+10683,26-09-1997 00:00,DUMON,Du monde entier,Janine Labrune,Nantes,France
+10684,26-09-1997 00:00,OTTIK,Ottilies Kseladen,Henriette Pfalzheim,Kln,Germany
+10685,29-09-1997 00:00,GOURL,Gourmet Lanchonetes,Andr Fonseca,Campinas,Brazil
+10686,30-09-1997 00:00,PICCO,Piccolo und mehr,Georg Pipps,Salzburg,Austria
+10687,30-09-1997 00:00,HUNGO,Hungry Owl All-Night Grocers,Patricia McKenna,Cork,Ireland
+10688,01-10-1997 00:00,VAFFE,Vaffeljernet,Palle Ibsen,rhus,Denmark
+10689,01-10-1997 00:00,BERGS,Berglunds snabbkp,Christina Berglund,Lule,Sweden
+10690,02-10-1997 00:00,HANAR,Hanari Carnes,Mario Pontes,Rio de Janeiro,Brazil
+10691,03-10-1997 00:00,QUICK,QUICK-Stop,Horst Kloss,Cunewalde,Germany
+10692,03-10-1997 00:00,ALFKI,Alfreds Futterkiste,Maria Anders,Berlin,Germany
+10693,06-10-1997 00:00,WHITC,White Clover Markets,Karl Jablonski,Seattle,USA
+10694,06-10-1997 00:00,QUICK,QUICK-Stop,Horst Kloss,Cunewalde,Germany
+10695,07-10-1997 00:00,WILMK,Wilman Kala,Matti Karttunen,Helsinki,Finland
+10696,08-10-1997 00:00,WHITC,White Clover Markets,Karl Jablonski,Seattle,USA
+10697,08-10-1997 00:00,LINOD,LINO-Delicateses,Felipe Izquierdo,I. de Margarita,Venezuela
+10698,09-10-1997 00:00,ERNSH,Ernst Handel,Roland Mendel,Graz,Austria
+10699,09-10-1997 00:00,MORGK,Morgenstern Gesundkost,Alexander Feuer,Leipzig,Germany
+10700,10-10-1997 00:00,SAVEA,Save-a-lot Markets,Jose Pavarotti,Boise,USA
+10701,13-10-1997 00:00,HUNGO,Hungry Owl All-Night Grocers,Patricia McKenna,Cork,Ireland
+10702,13-10-1997 00:00,ALFKI,Alfreds Futterkiste,Maria Anders,Berlin,Germany
+10703,14-10-1997 00:00,FOLKO,Folk och f HB,Maria Larsson,Brcke,Sweden
+10704,14-10-1997 00:00,QUEEN,Queen Cozinha,Lcia Carvalho,Sao Paulo,Brazil
+10705,15-10-1997 00:00,HILAA,HILARION-Abastos,Carlos Hernndez,San Cristbal,Venezuela
+10706,16-10-1997 00:00,OLDWO,Old World Delicatessen,Rene Phillips,Anchorage,USA
+10707,16-10-1997 00:00,AROUT,Around the Horn,Thomas Hardy,London,UK
+10708,17-10-1997 00:00,THEBI,The Big Cheese,Liz Nixon,Portland,USA
+10709,17-10-1997 00:00,GOURL,Gourmet Lanchonetes,Andr Fonseca,Campinas,Brazil
+10710,20-10-1997 00:00,FRANS,Franchi S.p.A.,Paolo Accorti,Torino,Italy
+10711,21-10-1997 00:00,SAVEA,Save-a-lot Markets,Jose Pavarotti,Boise,USA
+10712,21-10-1997 00:00,HUNGO,Hungry Owl All-Night Grocers,Patricia McKenna,Cork,Ireland
+10713,22-10-1997 00:00,SAVEA,Save-a-lot Markets,Jose Pavarotti,Boise,USA
+10714,22-10-1997 00:00,SAVEA,Save-a-lot Markets,Jose Pavarotti,Boise,USA
+10715,23-10-1997 00:00,BONAP,Bon app',Laurence Lebihan,Marseille,France
+10716,24-10-1997 00:00,RANCH,Rancho grande,Sergio Gutirrez,Buenos Aires,Argentina
+10717,24-10-1997 00:00,FRANK,Frankenversand,Peter Franken,Mnchen,Germany
+10718,27-10-1997 00:00,KOENE,Kniglich Essen,Philip Cramer,Brandenburg,Germany
+10719,27-10-1997 00:00,LETSS,Let's Stop N Shop,Jaime Yorres,San Francisco,USA
+10720,28-10-1997 00:00,QUEDE,Que Delcia,Bernardo Batista,Rio de Janeiro,Brazil
+10721,29-10-1997 00:00,QUICK,QUICK-Stop,Horst Kloss,Cunewalde,Germany
+10722,29-10-1997 00:00,SAVEA,Save-a-lot Markets,Jose Pavarotti,Boise,USA
+10723,30-10-1997 00:00,WHITC,White Clover Markets,Karl Jablonski,Seattle,USA
+10724,30-10-1997 00:00,MEREP,Mre Paillarde,Jean Fresnire,Montral,Canada
+10725,31-10-1997 00:00,FAMIA,Familia Arquibaldo,Aria Cruz,Sao Paulo,Brazil
+10726,03-11-1997 00:00,EASTC,Eastern Connection,Ann Devon,London,UK
+10727,03-11-1997 00:00,REGGC,Reggiani Caseifici,Maurizio Moroni,Reggio Emilia,Italy
+10728,04-11-1997 00:00,QUEEN,Queen Cozinha,Lcia Carvalho,Sao Paulo,Brazil
+10729,04-11-1997 00:00,LINOD,LINO-Delicateses,Felipe Izquierdo,I. de Margarita,Venezuela
+10730,05-11-1997 00:00,BONAP,Bon app',Laurence Lebihan,Marseille,France
+10731,06-11-1997 00:00,CHOPS,Chop-suey Chinese,Yang Wang,Bern,Switzerland
+10732,06-11-1997 00:00,BONAP,Bon app',Laurence Lebihan,Marseille,France
+10733,07-11-1997 00:00,BERGS,Berglunds snabbkp,Christina Berglund,Lule,Sweden
+10734,07-11-1997 00:00,GOURL,Gourmet Lanchonetes,Andr Fonseca,Campinas,Brazil
+10735,10-11-1997 00:00,LETSS,Let's Stop N Shop,Jaime Yorres,San Francisco,USA
+10736,11-11-1997 00:00,HUNGO,Hungry Owl All-Night Grocers,Patricia McKenna,Cork,Ireland
+10737,11-11-1997 00:00,VINET,Vins et alcools Chevalier,Paul Henriot,Reims,France
+10738,12-11-1997 00:00,SPECD,Spcialits du monde,Dominique Perrier,Paris,France
+10739,12-11-1997 00:00,VINET,Vins et alcools Chevalier,Paul Henriot,Reims,France
+10740,13-11-1997 00:00,WHITC,White Clover Markets,Karl Jablonski,Seattle,USA
+10741,14-11-1997 00:00,AROUT,Around the Horn,Thomas Hardy,London,UK
+10742,14-11-1997 00:00,BOTTM,Bottom-Dollar Markets,Elizabeth Lincoln,Tsawassen,Canada
+10743,17-11-1997 00:00,AROUT,Around the Horn,Thomas Hardy,London,UK
+10744,17-11-1997 00:00,VAFFE,Vaffeljernet,Palle Ibsen,rhus,Denmark
+10745,18-11-1997 00:00,QUICK,QUICK-Stop,Horst Kloss,Cunewalde,Germany
+10746,19-11-1997 00:00,CHOPS,Chop-suey Chinese,Yang Wang,Bern,Switzerland
+10747,19-11-1997 00:00,PICCO,Piccolo und mehr,Georg Pipps,Salzburg,Austria
+10748,20-11-1997 00:00,SAVEA,Save-a-lot Markets,Jose Pavarotti,Boise,USA
+10749,20-11-1997 00:00,ISLAT,Island Trading,Helen Bennett,Cowes,UK
+10750,21-11-1997 00:00,WARTH,Wartian Herkku,Pirkko Koskitalo,Oulu,Finland
+10751,24-11-1997 00:00,RICSU,Richter Supermarkt,Michael Holz,Genve,Switzerland
+10752,24-11-1997 00:00,NORTS,North/South,Simon Crowther,London,UK
+10753,25-11-1997 00:00,FRANS,Franchi S.p.A.,Paolo Accorti,Torino,Italy
+10754,25-11-1997 00:00,MAGAA,Magazzini Alimentari Riuniti,Giovanni Rovelli,Bergamo,Italy
+10755,26-11-1997 00:00,BONAP,Bon app',Laurence Lebihan,Marseille,France
+10756,27-11-1997 00:00,SPLIR,Split Rail Beer & Ale,Art Braunschweiger,Lander,USA
+10757,27-11-1997 00:00,SAVEA,Save-a-lot Markets,Jose Pavarotti,Boise,USA
+10758,28-11-1997 00:00,RICSU,Richter Supermarkt,Michael Holz,Genve,Switzerland
+10759,28-11-1997 00:00,ANATR,Ana Trujillo Emparedados y helados,Ana Trujillo,Mxico D.F.,Mexico
+10760,01-12-1997 00:00,MAISD,Maison Dewey,Catherine Dewey,Bruxelles,Belgium
+10761,02-12-1997 00:00,RATTC,Rattlesnake Canyon Grocery,Paula Wilson,Albuquerque,USA
+10762,02-12-1997 00:00,FOLKO,Folk och f HB,Maria Larsson,Brcke,Sweden
+10763,03-12-1997 00:00,FOLIG,Folies gourmandes,Martine Ranc,Lille,France
+10764,03-12-1997 00:00,ERNSH,Ernst Handel,Roland Mendel,Graz,Austria
+10765,04-12-1997 00:00,QUICK,QUICK-Stop,Horst Kloss,Cunewalde,Germany
+10766,05-12-1997 00:00,OTTIK,Ottilies Kseladen,Henriette Pfalzheim,Kln,Germany
+10767,05-12-1997 00:00,SUPRD,Suprmes dlices,Pascale Cartrain,Charleroi,Belgium
+10768,08-12-1997 00:00,AROUT,Around the Horn,Thomas Hardy,London,UK
+10769,08-12-1997 00:00,VAFFE,Vaffeljernet,Palle Ibsen,rhus,Denmark
+10770,09-12-1997 00:00,HANAR,Hanari Carnes,Mario Pontes,Rio de Janeiro,Brazil
+10771,10-12-1997 00:00,ERNSH,Ernst Handel,Roland Mendel,Graz,Austria
+10772,10-12-1997 00:00,LEHMS,Lehmanns Marktstand,Renate Messner,Frankfurt a.M.,Germany
+10773,11-12-1997 00:00,ERNSH,Ernst Handel,Roland Mendel,Graz,Austria
+10774,11-12-1997 00:00,FOLKO,Folk och f HB,Maria Larsson,Brcke,Sweden
+10775,12-12-1997 00:00,THECR,The Cracker Box,Liu Wong,Butte,USA
+10776,15-12-1997 00:00,ERNSH,Ernst Handel,Roland Mendel,Graz,Austria
+10777,15-12-1997 00:00,GOURL,Gourmet Lanchonetes,Andr Fonseca,Campinas,Brazil
+10778,16-12-1997 00:00,BERGS,Berglunds snabbkp,Christina Berglund,Lule,Sweden
+10779,16-12-1997 00:00,MORGK,Morgenstern Gesundkost,Alexander Feuer,Leipzig,Germany
+10780,16-12-1997 00:00,LILAS,LILA-Supermercado,Carlos Gonzlez,Barquisimeto,Venezuela
+10781,17-12-1997 00:00,WARTH,Wartian Herkku,Pirkko Koskitalo,Oulu,Finland
+10782,17-12-1997 00:00,CACTU,Cactus Comidas para llevar,Patricio Simpson,Buenos Aires,Argentina
+10783,18-12-1997 00:00,HANAR,Hanari Carnes,Mario Pontes,Rio de Janeiro,Brazil
+10784,18-12-1997 00:00,MAGAA,Magazzini Alimentari Riuniti,Giovanni Rovelli,Bergamo,Italy
+10785,18-12-1997 00:00,GROSR,GROSELLA-Restaurante,Manuel Pereira,Caracas,Venezuela
+10786,19-12-1997 00:00,QUEEN,Queen Cozinha,Lcia Carvalho,Sao Paulo,Brazil
+10787,19-12-1997 00:00,LAMAI,La maison d'Asie,Annette Roulet,Toulouse,France
+10788,22-12-1997 00:00,QUICK,QUICK-Stop,Horst Kloss,Cunewalde,Germany
+10789,22-12-1997 00:00,FOLIG,Folies gourmandes,Martine Ranc,Lille,France
+10790,22-12-1997 00:00,GOURL,Gourmet Lanchonetes,Andr Fonseca,Campinas,Brazil
+10791,23-12-1997 00:00,FRANK,Frankenversand,Peter Franken,Mnchen,Germany
+10792,23-12-1997 00:00,WOLZA,Wolski  Zajazd,Zbyszek Piestrzeniewicz,Warszawa,Poland
+10793,24-12-1997 00:00,AROUT,Around the Horn,Thomas Hardy,London,UK
+10794,24-12-1997 00:00,QUEDE,Que Delcia,Bernardo Batista,Rio de Janeiro,Brazil
+10795,24-12-1997 00:00,ERNSH,Ernst Handel,Roland Mendel,Graz,Austria
+10796,25-12-1997 00:00,HILAA,HILARION-Abastos,Carlos Hernndez,San Cristbal,Venezuela
+10797,25-12-1997 00:00,DRACD,Drachenblut Delikatessen,Sven Ottlieb,Aachen,Germany
+10798,26-12-1997 00:00,ISLAT,Island Trading,Helen Bennett,Cowes,UK
+10799,26-12-1997 00:00,KOENE,Kniglich Essen,Philip Cramer,Brandenburg,Germany
+10800,26-12-1997 00:00,SEVES,Seven Seas Imports,Hari Kumar,London,UK
+10801,29-12-1997 00:00,BOLID,Blido Comidas preparadas,Martn Sommer,Madrid,Spain
+10802,29-12-1997 00:00,SIMOB,Simons bistro,Jytte Petersen,Kobenhavn,Denmark
+10803,30-12-1997 00:00,WELLI,Wellington Importadora,Paula Parente,Resende,Brazil
+10804,30-12-1997 00:00,SEVES,Seven Seas Imports,Hari Kumar,London,UK
+10805,30-12-1997 00:00,THEBI,The Big Cheese,Liz Nixon,Portland,USA
+10806,31-12-1997 00:00,VICTE,Victuailles en stock,Mary Saveley,Lyon,France
+10807,31-12-1997 00:00,FRANS,Franchi S.p.A.,Paolo Accorti,Torino,Italy
+10808,01-01-1998 00:00,OLDWO,Old World Delicatessen,Rene Phillips,Anchorage,USA
+10809,01-01-1998 00:00,WELLI,Wellington Importadora,Paula Parente,Resende,Brazil
+10810,01-01-1998 00:00,LAUGB,Laughing Bacchus Wine Cellars,Yoshi Tannamuri,Vancouver,Canada
+10811,02-01-1998 00:00,LINOD,LINO-Delicateses,Felipe Izquierdo,I. de Margarita,Venezuela
+10812,02-01-1998 00:00,REGGC,Reggiani Caseifici,Maurizio Moroni,Reggio Emilia,Italy
+10813,05-01-1998 00:00,RICAR,Ricardo Adocicados,Janete Limeira,Rio de Janeiro,Brazil
+10814,05-01-1998 00:00,VICTE,Victuailles en stock,Mary Saveley,Lyon,France
+10815,05-01-1998 00:00,SAVEA,Save-a-lot Markets,Jose Pavarotti,Boise,USA
+10816,06-01-1998 00:00,GREAL,Great Lakes Food Market,Howard Snyder,Eugene,USA
+10817,06-01-1998 00:00,KOENE,Kniglich Essen,Philip Cramer,Brandenburg,Germany
+10818,07-01-1998 00:00,MAGAA,Magazzini Alimentari Riuniti,Giovanni Rovelli,Bergamo,Italy
+10819,07-01-1998 00:00,CACTU,Cactus Comidas para llevar,Patricio Simpson,Buenos Aires,Argentina
+10820,07-01-1998 00:00,RATTC,Rattlesnake Canyon Grocery,Paula Wilson,Albuquerque,USA
+10821,08-01-1998 00:00,SPLIR,Split Rail Beer & Ale,Art Braunschweiger,Lander,USA
+10822,08-01-1998 00:00,TRAIH,Trail's Head Gourmet Provisioners,Helvetius Nagy,Kirkland,USA
+10823,09-01-1998 00:00,LILAS,LILA-Supermercado,Carlos Gonzlez,Barquisimeto,Venezuela
+10824,09-01-1998 00:00,FOLKO,Folk och f HB,Maria Larsson,Brcke,Sweden
+10825,09-01-1998 00:00,DRACD,Drachenblut Delikatessen,Sven Ottlieb,Aachen,Germany
+10826,12-01-1998 00:00,BLONP,Blondesddsl pre et fils,Frdrique Citeaux,Strasbourg,France
+10827,12-01-1998 00:00,BONAP,Bon app',Laurence Lebihan,Marseille,France
+10828,13-01-1998 00:00,RANCH,Rancho grande,Sergio Gutirrez,Buenos Aires,Argentina
+10829,13-01-1998 00:00,ISLAT,Island Trading,Helen Bennett,Cowes,UK
+10830,13-01-1998 00:00,TRADH,Tradio Hipermercados,Anabela Domingues,Sao Paulo,Brazil
+10831,14-01-1998 00:00,SANTG,Sant Gourmet,Jonas Bergulfsen,Stavern,Norway
+10832,14-01-1998 00:00,LAMAI,La maison d'Asie,Annette Roulet,Toulouse,France
+10833,15-01-1998 00:00,OTTIK,Ottilies Kseladen,Henriette Pfalzheim,Kln,Germany
+10834,15-01-1998 00:00,TRADH,Tradio Hipermercados,Anabela Domingues,Sao Paulo,Brazil
+10835,15-01-1998 00:00,ALFKI,Alfreds Futterkiste,Maria Anders,Berlin,Germany
+10836,16-01-1998 00:00,ERNSH,Ernst Handel,Roland Mendel,Graz,Austria
+10837,16-01-1998 00:00,BERGS,Berglunds snabbkp,Christina Berglund,Lule,Sweden
+10838,19-01-1998 00:00,LINOD,LINO-Delicateses,Felipe Izquierdo,I. de Margarita,Venezuela
+10839,19-01-1998 00:00,TRADH,Tradio Hipermercados,Anabela Domingues,Sao Paulo,Brazil
+10840,19-01-1998 00:00,LINOD,LINO-Delicateses,Felipe Izquierdo,I. de Margarita,Venezuela
+10841,20-01-1998 00:00,SUPRD,Suprmes dlices,Pascale Cartrain,Charleroi,Belgium
+10842,20-01-1998 00:00,TORTU,Tortuga Restaurante,Miguel Angel Paolino,Mxico D.F.,Mexico
+10843,21-01-1998 00:00,VICTE,Victuailles en stock,Mary Saveley,Lyon,France
+10844,21-01-1998 00:00,PICCO,Piccolo und mehr,Georg Pipps,Salzburg,Austria
+10845,21-01-1998 00:00,QUICK,QUICK-Stop,Horst Kloss,Cunewalde,Germany
+10846,22-01-1998 00:00,SUPRD,Suprmes dlices,Pascale Cartrain,Charleroi,Belgium
+10847,22-01-1998 00:00,SAVEA,Save-a-lot Markets,Jose Pavarotti,Boise,USA
+10848,23-01-1998 00:00,CONSH,Consolidated Holdings,Elizabeth Brown,London,UK
+10849,23-01-1998 00:00,KOENE,Kniglich Essen,Philip Cramer,Brandenburg,Germany
+10850,23-01-1998 00:00,VICTE,Victuailles en stock,Mary Saveley,Lyon,France
+10851,26-01-1998 00:00,RICAR,Ricardo Adocicados,Janete Limeira,Rio de Janeiro,Brazil
+10852,26-01-1998 00:00,RATTC,Rattlesnake Canyon Grocery,Paula Wilson,Albuquerque,USA
+10853,27-01-1998 00:00,BLAUS,Blauer See Delikatessen,Hanna Moos,Mannheim,Germany
+10854,27-01-1998 00:00,ERNSH,Ernst Handel,Roland Mendel,Graz,Austria
+10855,27-01-1998 00:00,OLDWO,Old World Delicatessen,Rene Phillips,Anchorage,USA
+10856,28-01-1998 00:00,ANTON,Antonio Moreno Taquera,Antonio Moreno,Mxico D.F.,Mexico
+10857,28-01-1998 00:00,BERGS,Berglunds snabbkp,Christina Berglund,Lule,Sweden
+10858,29-01-1998 00:00,LACOR,La corne d'abondance,Daniel Tonini,Versailles,France
+10859,29-01-1998 00:00,FRANK,Frankenversand,Peter Franken,Mnchen,Germany
+10860,29-01-1998 00:00,FRANR,France restauration,Carine Schmitt,Nantes,France
+10861,30-01-1998 00:00,WHITC,White Clover Markets,Karl Jablonski,Seattle,USA
+10862,30-01-1998 00:00,LEHMS,Lehmanns Marktstand,Renate Messner,Frankfurt a.M.,Germany
+10863,02-02-1998 00:00,HILAA,HILARION-Abastos,Carlos Hernndez,San Cristbal,Venezuela
+10864,02-02-1998 00:00,AROUT,Around the Horn,Thomas Hardy,London,UK
+10865,02-02-1998 00:00,QUICK,QUICK-Stop,Horst Kloss,Cunewalde,Germany
+10866,03-02-1998 00:00,BERGS,Berglunds snabbkp,Christina Berglund,Lule,Sweden
+10867,03-02-1998 00:00,LONEP,Lonesome Pine Restaurant,Fran Wilson,Portland,USA
+10868,04-02-1998 00:00,QUEEN,Queen Cozinha,Lcia Carvalho,Sao Paulo,Brazil
+10869,04-02-1998 00:00,SEVES,Seven Seas Imports,Hari Kumar,London,UK
+10870,04-02-1998 00:00,WOLZA,Wolski  Zajazd,Zbyszek Piestrzeniewicz,Warszawa,Poland
+10871,05-02-1998 00:00,BONAP,Bon app',Laurence Lebihan,Marseille,France
+10872,05-02-1998 00:00,GODOS,Godos Cocina Tpica,Jos Pedro Freyre,Sevilla,Spain
+10873,06-02-1998 00:00,WILMK,Wilman Kala,Matti Karttunen,Helsinki,Finland
+10874,06-02-1998 00:00,GODOS,Godos Cocina Tpica,Jos Pedro Freyre,Sevilla,Spain
+10875,06-02-1998 00:00,BERGS,Berglunds snabbkp,Christina Berglund,Lule,Sweden
+10876,09-02-1998 00:00,BONAP,Bon app',Laurence Lebihan,Marseille,France
+10877,09-02-1998 00:00,RICAR,Ricardo Adocicados,Janete Limeira,Rio de Janeiro,Brazil
+10878,10-02-1998 00:00,QUICK,QUICK-Stop,Horst Kloss,Cunewalde,Germany
+10879,10-02-1998 00:00,WILMK,Wilman Kala,Matti Karttunen,Helsinki,Finland
+10880,10-02-1998 00:00,FOLKO,Folk och f HB,Maria Larsson,Brcke,Sweden
+10881,11-02-1998 00:00,CACTU,Cactus Comidas para llevar,Patricio Simpson,Buenos Aires,Argentina
+10882,11-02-1998 00:00,SAVEA,Save-a-lot Markets,Jose Pavarotti,Boise,USA
+10883,12-02-1998 00:00,LONEP,Lonesome Pine Restaurant,Fran Wilson,Portland,USA
+10884,12-02-1998 00:00,LETSS,Let's Stop N Shop,Jaime Yorres,San Francisco,USA
+10885,12-02-1998 00:00,SUPRD,Suprmes dlices,Pascale Cartrain,Charleroi,Belgium
+10886,13-02-1998 00:00,HANAR,Hanari Carnes,Mario Pontes,Rio de Janeiro,Brazil
+10887,13-02-1998 00:00,GALED,Galera del gastrnomo,Eduardo Saavedra,Barcelona,Spain
+10888,16-02-1998 00:00,GODOS,Godos Cocina Tpica,Jos Pedro Freyre,Sevilla,Spain
+10889,16-02-1998 00:00,RATTC,Rattlesnake Canyon Grocery,Paula Wilson,Albuquerque,USA
+10890,16-02-1998 00:00,DUMON,Du monde entier,Janine Labrune,Nantes,France
+10891,17-02-1998 00:00,LEHMS,Lehmanns Marktstand,Renate Messner,Frankfurt a.M.,Germany
+10892,17-02-1998 00:00,MAISD,Maison Dewey,Catherine Dewey,Bruxelles,Belgium
+10893,18-02-1998 00:00,KOENE,Kniglich Essen,Philip Cramer,Brandenburg,Germany
+10894,18-02-1998 00:00,SAVEA,Save-a-lot Markets,Jose Pavarotti,Boise,USA
+10895,18-02-1998 00:00,ERNSH,Ernst Handel,Roland Mendel,Graz,Austria
+10896,19-02-1998 00:00,MAISD,Maison Dewey,Catherine Dewey,Bruxelles,Belgium
+10897,19-02-1998 00:00,HUNGO,Hungry Owl All-Night Grocers,Patricia McKenna,Cork,Ireland
+10898,20-02-1998 00:00,OCEAN,Ocano Atlntico Ltda.,Yvonne Moncada,Buenos Aires,Argentina
+10899,20-02-1998 00:00,LILAS,LILA-Supermercado,Carlos Gonzlez,Barquisimeto,Venezuela
+10900,20-02-1998 00:00,WELLI,Wellington Importadora,Paula Parente,Resende,Brazil
+10901,23-02-1998 00:00,HILAA,HILARION-Abastos,Carlos Hernndez,San Cristbal,Venezuela
+10902,23-02-1998 00:00,FOLKO,Folk och f HB,Maria Larsson,Brcke,Sweden
+10903,24-02-1998 00:00,HANAR,Hanari Carnes,Mario Pontes,Rio de Janeiro,Brazil
+10904,24-02-1998 00:00,WHITC,White Clover Markets,Karl Jablonski,Seattle,USA
+10905,24-02-1998 00:00,WELLI,Wellington Importadora,Paula Parente,Resende,Brazil
+10906,25-02-1998 00:00,WOLZA,Wolski  Zajazd,Zbyszek Piestrzeniewicz,Warszawa,Poland
+10907,25-02-1998 00:00,SPECD,Spcialits du monde,Dominique Perrier,Paris,France
+10908,26-02-1998 00:00,REGGC,Reggiani Caseifici,Maurizio Moroni,Reggio Emilia,Italy
+10909,26-02-1998 00:00,SANTG,Sant Gourmet,Jonas Bergulfsen,Stavern,Norway
+10910,26-02-1998 00:00,WILMK,Wilman Kala,Matti Karttunen,Helsinki,Finland
+10911,26-02-1998 00:00,GODOS,Godos Cocina Tpica,Jos Pedro Freyre,Sevilla,Spain
+10912,26-02-1998 00:00,HUNGO,Hungry Owl All-Night Grocers,Patricia McKenna,Cork,Ireland
+10913,26-02-1998 00:00,QUEEN,Queen Cozinha,Lcia Carvalho,Sao Paulo,Brazil
+10914,27-02-1998 00:00,QUEEN,Queen Cozinha,Lcia Carvalho,Sao Paulo,Brazil
+10915,27-02-1998 00:00,TORTU,Tortuga Restaurante,Miguel Angel Paolino,Mxico D.F.,Mexico
+10916,27-02-1998 00:00,RANCH,Rancho grande,Sergio Gutirrez,Buenos Aires,Argentina
+10917,02-03-1998 00:00,ROMEY,Romero y tomillo,Alejandra Camino,Madrid,Spain
+10918,02-03-1998 00:00,BOTTM,Bottom-Dollar Markets,Elizabeth Lincoln,Tsawassen,Canada
+10919,02-03-1998 00:00,LINOD,LINO-Delicateses,Felipe Izquierdo,I. de Margarita,Venezuela
+10920,03-03-1998 00:00,AROUT,Around the Horn,Thomas Hardy,London,UK
+10921,03-03-1998 00:00,VAFFE,Vaffeljernet,Palle Ibsen,rhus,Denmark
+10922,03-03-1998 00:00,HANAR,Hanari Carnes,Mario Pontes,Rio de Janeiro,Brazil
+10923,03-03-1998 00:00,LAMAI,La maison d'Asie,Annette Roulet,Toulouse,France
+10924,04-03-1998 00:00,BERGS,Berglunds snabbkp,Christina Berglund,Lule,Sweden
+10925,04-03-1998 00:00,HANAR,Hanari Carnes,Mario Pontes,Rio de Janeiro,Brazil
+10926,04-03-1998 00:00,ANATR,Ana Trujillo Emparedados y helados,Ana Trujillo,Mxico D.F.,Mexico
+10927,05-03-1998 00:00,LACOR,La corne d'abondance,Daniel Tonini,Versailles,France
+10928,05-03-1998 00:00,GALED,Galera del gastrnomo,Eduardo Saavedra,Barcelona,Spain
+10929,05-03-1998 00:00,FRANK,Frankenversand,Peter Franken,Mnchen,Germany
+10930,06-03-1998 00:00,SUPRD,Suprmes dlices,Pascale Cartrain,Charleroi,Belgium
+10931,06-03-1998 00:00,RICSU,Richter Supermarkt,Michael Holz,Genve,Switzerland
+10932,06-03-1998 00:00,BONAP,Bon app',Laurence Lebihan,Marseille,France
+10933,06-03-1998 00:00,ISLAT,Island Trading,Helen Bennett,Cowes,UK
+10934,09-03-1998 00:00,LEHMS,Lehmanns Marktstand,Renate Messner,Frankfurt a.M.,Germany
+10935,09-03-1998 00:00,WELLI,Wellington Importadora,Paula Parente,Resende,Brazil
+10936,09-03-1998 00:00,GREAL,Great Lakes Food Market,Howard Snyder,Eugene,USA
+10937,10-03-1998 00:00,CACTU,Cactus Comidas para llevar,Patricio Simpson,Buenos Aires,Argentina
+10938,10-03-1998 00:00,QUICK,QUICK-Stop,Horst Kloss,Cunewalde,Germany
+10939,10-03-1998 00:00,MAGAA,Magazzini Alimentari Riuniti,Giovanni Rovelli,Bergamo,Italy
+10940,11-03-1998 00:00,BONAP,Bon app',Laurence Lebihan,Marseille,France
+10941,11-03-1998 00:00,SAVEA,Save-a-lot Markets,Jose Pavarotti,Boise,USA
+10942,11-03-1998 00:00,REGGC,Reggiani Caseifici,Maurizio Moroni,Reggio Emilia,Italy
+10943,11-03-1998 00:00,BSBEV,B's Beverages,Victoria Ashworth,London,UK
+10944,12-03-1998 00:00,BOTTM,Bottom-Dollar Markets,Elizabeth Lincoln,Tsawassen,Canada
+10945,12-03-1998 00:00,MORGK,Morgenstern Gesundkost,Alexander Feuer,Leipzig,Germany
+10946,12-03-1998 00:00,VAFFE,Vaffeljernet,Palle Ibsen,rhus,Denmark
+10947,13-03-1998 00:00,BSBEV,B's Beverages,Victoria Ashworth,London,UK
+10948,13-03-1998 00:00,GODOS,Godos Cocina Tpica,Jos Pedro Freyre,Sevilla,Spain
+10949,13-03-1998 00:00,BOTTM,Bottom-Dollar Markets,Elizabeth Lincoln,Tsawassen,Canada
+10950,16-03-1998 00:00,MAGAA,Magazzini Alimentari Riuniti,Giovanni Rovelli,Bergamo,Italy
+10951,16-03-1998 00:00,RICSU,Richter Supermarkt,Michael Holz,Genve,Switzerland
+10952,16-03-1998 00:00,ALFKI,Alfreds Futterkiste,Maria Anders,Berlin,Germany
+10953,16-03-1998 00:00,AROUT,Around the Horn,Thomas Hardy,London,UK
+10954,17-03-1998 00:00,LINOD,LINO-Delicateses,Felipe Izquierdo,I. de Margarita,Venezuela
+10955,17-03-1998 00:00,FOLKO,Folk och f HB,Maria Larsson,Brcke,Sweden
+10956,17-03-1998 00:00,BLAUS,Blauer See Delikatessen,Hanna Moos,Mannheim,Germany
+10957,18-03-1998 00:00,HILAA,HILARION-Abastos,Carlos Hernndez,San Cristbal,Venezuela
+10958,18-03-1998 00:00,OCEAN,Ocano Atlntico Ltda.,Yvonne Moncada,Buenos Aires,Argentina
+10959,18-03-1998 00:00,GOURL,Gourmet Lanchonetes,Andr Fonseca,Campinas,Brazil
+10960,19-03-1998 00:00,HILAA,HILARION-Abastos,Carlos Hernndez,San Cristbal,Venezuela
+10961,19-03-1998 00:00,QUEEN,Queen Cozinha,Lcia Carvalho,Sao Paulo,Brazil
+10962,19-03-1998 00:00,QUICK,QUICK-Stop,Horst Kloss,Cunewalde,Germany
+10963,19-03-1998 00:00,FURIB,Furia Bacalhau e Frutos do Mar,Lino Rodriguez,Lisboa,Portugal
+10964,20-03-1998 00:00,SPECD,Spcialits du monde,Dominique Perrier,Paris,France
+10965,20-03-1998 00:00,OLDWO,Old World Delicatessen,Rene Phillips,Anchorage,USA
+10966,20-03-1998 00:00,CHOPS,Chop-suey Chinese,Yang Wang,Bern,Switzerland
+10967,23-03-1998 00:00,TOMSP,Toms Spezialitten,Karin Josephs,Mnster,Germany
+10968,23-03-1998 00:00,ERNSH,Ernst Handel,Roland Mendel,Graz,Austria
+10969,23-03-1998 00:00,COMMI,Comrcio Mineiro,Pedro Afonso,Sao Paulo,Brazil
+10970,24-03-1998 00:00,BOLID,Blido Comidas preparadas,Martn Sommer,Madrid,Spain
+10971,24-03-1998 00:00,FRANR,France restauration,Carine Schmitt,Nantes,France
+10972,24-03-1998 00:00,LACOR,La corne d'abondance,Daniel Tonini,Versailles,France
+10973,24-03-1998 00:00,LACOR,La corne d'abondance,Daniel Tonini,Versailles,France
+10974,25-03-1998 00:00,SPLIR,Split Rail Beer & Ale,Art Braunschweiger,Lander,USA
+10975,25-03-1998 00:00,BOTTM,Bottom-Dollar Markets,Elizabeth Lincoln,Tsawassen,Canada
+10976,25-03-1998 00:00,HILAA,HILARION-Abastos,Carlos Hernndez,San Cristbal,Venezuela
+10977,26-03-1998 00:00,FOLKO,Folk och f HB,Maria Larsson,Brcke,Sweden
+10978,26-03-1998 00:00,MAISD,Maison Dewey,Catherine Dewey,Bruxelles,Belgium
+10979,26-03-1998 00:00,ERNSH,Ernst Handel,Roland Mendel,Graz,Austria
+10980,27-03-1998 00:00,FOLKO,Folk och f HB,Maria Larsson,Brcke,Sweden
+10981,27-03-1998 00:00,HANAR,Hanari Carnes,Mario Pontes,Rio de Janeiro,Brazil
+10982,27-03-1998 00:00,BOTTM,Bottom-Dollar Markets,Elizabeth Lincoln,Tsawassen,Canada
+10983,27-03-1998 00:00,SAVEA,Save-a-lot Markets,Jose Pavarotti,Boise,USA
+10984,30-03-1998 00:00,SAVEA,Save-a-lot Markets,Jose Pavarotti,Boise,USA
+10985,30-03-1998 00:00,HUNGO,Hungry Owl All-Night Grocers,Patricia McKenna,Cork,Ireland
+10986,30-03-1998 00:00,OCEAN,Ocano Atlntico Ltda.,Yvonne Moncada,Buenos Aires,Argentina
+10987,31-03-1998 00:00,EASTC,Eastern Connection,Ann Devon,London,UK
+10988,31-03-1998 00:00,RATTC,Rattlesnake Canyon Grocery,Paula Wilson,Albuquerque,USA
+10989,31-03-1998 00:00,QUEDE,Que Delcia,Bernardo Batista,Rio de Janeiro,Brazil
+10990,01-04-1998 00:00,ERNSH,Ernst Handel,Roland Mendel,Graz,Austria
+10991,01-04-1998 00:00,QUICK,QUICK-Stop,Horst Kloss,Cunewalde,Germany
+10992,01-04-1998 00:00,THEBI,The Big Cheese,Liz Nixon,Portland,USA
+10993,01-04-1998 00:00,FOLKO,Folk och f HB,Maria Larsson,Brcke,Sweden
+10994,02-04-1998 00:00,VAFFE,Vaffeljernet,Palle Ibsen,rhus,Denmark
+10995,02-04-1998 00:00,PERIC,Pericles Comidas clsicas,Guillermo Fernndez,Mxico D.F.,Mexico
+10996,02-04-1998 00:00,QUICK,QUICK-Stop,Horst Kloss,Cunewalde,Germany
+10997,03-04-1998 00:00,LILAS,LILA-Supermercado,Carlos Gonzlez,Barquisimeto,Venezuela
+10998,03-04-1998 00:00,WOLZA,Wolski  Zajazd,Zbyszek Piestrzeniewicz,Warszawa,Poland
+10999,03-04-1998 00:00,OTTIK,Ottilies Kseladen,Henriette Pfalzheim,Kln,Germany
+11000,06-04-1998 00:00,RATTC,Rattlesnake Canyon Grocery,Paula Wilson,Albuquerque,USA
+11001,06-04-1998 00:00,FOLKO,Folk och f HB,Maria Larsson,Brcke,Sweden
+11002,06-04-1998 00:00,SAVEA,Save-a-lot Markets,Jose Pavarotti,Boise,USA
+11003,06-04-1998 00:00,THECR,The Cracker Box,Liu Wong,Butte,USA
+11004,07-04-1998 00:00,MAISD,Maison Dewey,Catherine Dewey,Bruxelles,Belgium
+11005,07-04-1998 00:00,WILMK,Wilman Kala,Matti Karttunen,Helsinki,Finland
+11006,07-04-1998 00:00,GREAL,Great Lakes Food Market,Howard Snyder,Eugene,USA
+11007,08-04-1998 00:00,PRINI,Princesa Isabel Vinhos,Isabel de Castro,Lisboa,Portugal
+11008,08-04-1998 00:00,ERNSH,Ernst Handel,Roland Mendel,Graz,Austria
+11009,08-04-1998 00:00,GODOS,Godos Cocina Tpica,Jos Pedro Freyre,Sevilla,Spain
+11010,09-04-1998 00:00,REGGC,Reggiani Caseifici,Maurizio Moroni,Reggio Emilia,Italy
+11011,09-04-1998 00:00,ALFKI,Alfreds Futterkiste,Maria Anders,Berlin,Germany
+11012,09-04-1998 00:00,FRANK,Frankenversand,Peter Franken,Mnchen,Germany
+11013,09-04-1998 00:00,ROMEY,Romero y tomillo,Alejandra Camino,Madrid,Spain
+11014,10-04-1998 00:00,LINOD,LINO-Delicateses,Felipe Izquierdo,I. de Margarita,Venezuela
+11015,10-04-1998 00:00,SANTG,Sant Gourmet,Jonas Bergulfsen,Stavern,Norway
+11016,10-04-1998 00:00,AROUT,Around the Horn,Thomas Hardy,London,UK
+11017,13-04-1998 00:00,ERNSH,Ernst Handel,Roland Mendel,Graz,Austria
+11018,13-04-1998 00:00,LONEP,Lonesome Pine Restaurant,Fran Wilson,Portland,USA
+11019,13-04-1998 00:00,RANCH,Rancho grande,Sergio Gutirrez,Buenos Aires,Argentina
+11020,14-04-1998 00:00,OTTIK,Ottilies Kseladen,Henriette Pfalzheim,Kln,Germany
+11021,14-04-1998 00:00,QUICK,QUICK-Stop,Horst Kloss,Cunewalde,Germany
+11022,14-04-1998 00:00,HANAR,Hanari Carnes,Mario Pontes,Rio de Janeiro,Brazil
+11023,14-04-1998 00:00,BSBEV,B's Beverages,Victoria Ashworth,London,UK
+11024,15-04-1998 00:00,EASTC,Eastern Connection,Ann Devon,London,UK
+11025,15-04-1998 00:00,WARTH,Wartian Herkku,Pirkko Koskitalo,Oulu,Finland
+11026,15-04-1998 00:00,FRANS,Franchi S.p.A.,Paolo Accorti,Torino,Italy
+11027,16-04-1998 00:00,BOTTM,Bottom-Dollar Markets,Elizabeth Lincoln,Tsawassen,Canada
+11028,16-04-1998 00:00,KOENE,Kniglich Essen,Philip Cramer,Brandenburg,Germany
+11029,16-04-1998 00:00,CHOPS,Chop-suey Chinese,Yang Wang,Bern,Switzerland
+11030,17-04-1998 00:00,SAVEA,Save-a-lot Markets,Jose Pavarotti,Boise,USA
+11031,17-04-1998 00:00,SAVEA,Save-a-lot Markets,Jose Pavarotti,Boise,USA
+11032,17-04-1998 00:00,WHITC,White Clover Markets,Karl Jablonski,Seattle,USA
+11033,17-04-1998 00:00,RICSU,Richter Supermarkt,Michael Holz,Genve,Switzerland
+11034,20-04-1998 00:00,OLDWO,Old World Delicatessen,Rene Phillips,Anchorage,USA
+11035,20-04-1998 00:00,SUPRD,Suprmes dlices,Pascale Cartrain,Charleroi,Belgium
+11036,20-04-1998 00:00,DRACD,Drachenblut Delikatessen,Sven Ottlieb,Aachen,Germany
+11037,21-04-1998 00:00,GODOS,Godos Cocina Tpica,Jos Pedro Freyre,Sevilla,Spain
+11038,21-04-1998 00:00,SUPRD,Suprmes dlices,Pascale Cartrain,Charleroi,Belgium
+11039,21-04-1998 00:00,LINOD,LINO-Delicateses,Felipe Izquierdo,I. de Margarita,Venezuela
+11040,22-04-1998 00:00,GREAL,Great Lakes Food Market,Howard Snyder,Eugene,USA
+11041,22-04-1998 00:00,CHOPS,Chop-suey Chinese,Yang Wang,Bern,Switzerland
+11042,22-04-1998 00:00,COMMI,Comrcio Mineiro,Pedro Afonso,Sao Paulo,Brazil
+11043,22-04-1998 00:00,SPECD,Spcialits du monde,Dominique Perrier,Paris,France
+11044,23-04-1998 00:00,WOLZA,Wolski  Zajazd,Zbyszek Piestrzeniewicz,Warszawa,Poland
+11045,23-04-1998 00:00,BOTTM,Bottom-Dollar Markets,Elizabeth Lincoln,Tsawassen,Canada
+11046,23-04-1998 00:00,WANDK,Die Wandernde Kuh,Rita Mller,Stuttgart,Germany
+11047,24-04-1998 00:00,EASTC,Eastern Connection,Ann Devon,London,UK
+11048,24-04-1998 00:00,BOTTM,Bottom-Dollar Markets,Elizabeth Lincoln,Tsawassen,Canada
+11049,24-04-1998 00:00,GOURL,Gourmet Lanchonetes,Andr Fonseca,Campinas,Brazil
+11050,27-04-1998 00:00,FOLKO,Folk och f HB,Maria Larsson,Brcke,Sweden
+11051,27-04-1998 00:00,LAMAI,La maison d'Asie,Annette Roulet,Toulouse,France
+11052,27-04-1998 00:00,HANAR,Hanari Carnes,Mario Pontes,Rio de Janeiro,Brazil
+11053,27-04-1998 00:00,PICCO,Piccolo und mehr,Georg Pipps,Salzburg,Austria
+11054,28-04-1998 00:00,CACTU,Cactus Comidas para llevar,Patricio Simpson,Buenos Aires,Argentina
+11055,28-04-1998 00:00,HILAA,HILARION-Abastos,Carlos Hernndez,San Cristbal,Venezuela
+11056,28-04-1998 00:00,EASTC,Eastern Connection,Ann Devon,London,UK
+11057,29-04-1998 00:00,NORTS,North/South,Simon Crowther,London,UK
+11058,29-04-1998 00:00,BLAUS,Blauer See Delikatessen,Hanna Moos,Mannheim,Germany
+11059,29-04-1998 00:00,RICAR,Ricardo Adocicados,Janete Limeira,Rio de Janeiro,Brazil
+11060,30-04-1998 00:00,FRANS,Franchi S.p.A.,Paolo Accorti,Torino,Italy
+11061,30-04-1998 00:00,GREAL,Great Lakes Food Market,Howard Snyder,Eugene,USA
+11062,30-04-1998 00:00,REGGC,Reggiani Caseifici,Maurizio Moroni,Reggio Emilia,Italy
+11063,30-04-1998 00:00,HUNGO,Hungry Owl All-Night Grocers,Patricia McKenna,Cork,Ireland
+11064,01-05-1998 00:00,SAVEA,Save-a-lot Markets,Jose Pavarotti,Boise,USA
+11065,01-05-1998 00:00,LILAS,LILA-Supermercado,Carlos Gonzlez,Barquisimeto,Venezuela
+11066,01-05-1998 00:00,WHITC,White Clover Markets,Karl Jablonski,Seattle,USA
+11067,04-05-1998 00:00,DRACD,Drachenblut Delikatessen,Sven Ottlieb,Aachen,Germany
+11068,04-05-1998 00:00,QUEEN,Queen Cozinha,Lcia Carvalho,Sao Paulo,Brazil
+11069,04-05-1998 00:00,TORTU,Tortuga Restaurante,Miguel Angel Paolino,Mxico D.F.,Mexico
+11070,05-05-1998 00:00,LEHMS,Lehmanns Marktstand,Renate Messner,Frankfurt a.M.,Germany
+11071,05-05-1998 00:00,LILAS,LILA-Supermercado,Carlos Gonzlez,Barquisimeto,Venezuela
+11072,05-05-1998 00:00,ERNSH,Ernst Handel,Roland Mendel,Graz,Austria
+11073,05-05-1998 00:00,PERIC,Pericles Comidas clsicas,Guillermo Fernndez,Mxico D.F.,Mexico
+11074,06-05-1998 00:00,SIMOB,Simons bistro,Jytte Petersen,Kobenhavn,Denmark
+11075,06-05-1998 00:00,RICSU,Richter Supermarkt,Michael Holz,Genve,Switzerland
+11076,06-05-1998 00:00,BONAP,Bon app',Laurence Lebihan,Marseille,France
+11077,06-05-1998 00:00,RATTC,Rattlesnake Canyon Grocery,Paula Wilson,Albuquerque,USA
+,,,,,,
+,,,,,,
+total_orders,,,,,,
+830,,,,,,
+,,,,,,
+,,,,,,
+joined_orders,,,,,,
+830,,,,,,
+,,,,,,
+,,,,,,
+CustomerID,CompanyName,ContactName,City,Country,,
+FISSA,FISSA Fabrica Inter. Salchichas S.A.,Diego Roel,Madrid,Spain,,
+PARIS,Paris spcialits,Marie Bertrand,Paris,France,,
+Val2 ,IT,Val2,NULL,NULL,,
+VALON,IT,Valon Hoti,NULL,NULL,,
+,,,,,,
+,,,,,,
+inactive_customers,,,,,,
+4,,,,,,
+,,,,,,
+,,,,,,
+CustomerID,CompanyName,total_orders,,,,
+SAVEA,Save-a-lot Markets,31,,,,
+ERNSH,Ernst Handel,30,,,,
+QUICK,QUICK-Stop,28,,,,
+HUNGO,Hungry Owl All-Night Grocers,19,,,,
+FOLKO,Folk och f HB,19,,,,
+HILAA,HILARION-Abastos,18,,,,
+RATTC,Rattlesnake Canyon Grocery,18,,,,
+BERGS,Berglunds snabbkp,18,,,,
+BONAP,Bon app',17,,,,
+WARTH,Wartian Herkku,15,,,,
+,,,,,,
+,,,,,,
+ProductID,ProductName,total_revenue,total_units_sold,,,
+38,Cte de Blaye,149984.2,623,,,
+29,Thringer Rostbratwurst,87736.4,746,,,
+59,Raclette Courdavault,76296,1496,,,
+60,Camembert Pierrot,50286,1577,,,
+62,Tarte au sucre,49827.9,1083,,,
+56,Gnocchi di nonna Alice,45121.2,1263,,,
+51,Manjimup Dried Apples,44742.6,886,,,
+17,Alice Mutton,35482.2,978,,,
+18,Carnarvon Tigers,31987.5,539,,,
+28,Rssle Sauerkraut,26865.6,640,,,
+72,Mozzarella di Giovanni,25738.8,806,,,
+43,Ipoh Coffee,25079.2,580,,,
+69,Gudbrandsdalsost,24307.2,714,,,
+20,Sir Rodney's Marmalade,23635.8,313,,,
+64,Wimmers gute Semmelkndel,23009,740,,,
+7,Uncle Bob's Organic Dried Pears,22464,763,,,
+10,Ikura,22140.2,742,,,
+26,Gumbr Gummibrchen,21534.9,753,,,
+53,Perth Pasties,21510.2,722,,,
+71,Flotemysost,20876.5,1057,,,
+55,Pt chinois,19512,903,,,
+40,Boston Crab Meat,19048.3,1103,,,
+16,Pavlova,18748.05,1158,,,
+2,Chang,18559.2,1057,,,
+63,Vegie-spread,17696.3,445,,,
+76,Lakkalikri,16794,981,,,
+61,Sirop d'rable,16438.8,603,,,
+31,Gorgonzola Telino,16172.5,1397,,,
+27,Schoggi Schokolade,15231.5,365,,,
+30,Nord-Ost Matjeshering,14775.54,612,,,
+65,Louisiana Fiery Hot Pepper Sauce,14607,745,,,
+36,Inlagd Sill,14542.6,805,,,
+35,Steeleye Stout,14536.8,883,,,
+1,Chai,14277.6,828,,,
+11,Queso Cabrales,13902,706,,,
+8,Northwoods Cranberry Sauce,13760,372,,,
+39,Chartreuse verte,13150.8,793,,,
+12,Queso Manchego La Pastora,12866.8,344,,,
+70,Outback Lager,11472,817,,,
+44,Gula Malacca,10524.2,601,,,
+77,Original Frankfurter grne Soe,9685,791,,,
+21,Sir Rodney's Scones,9636,1016,,,
+49,Maxilaku,9500,520,,,
+4,Chef Anton's Cajun Seasoning,9424.8,453,,,
+68,Scottish Longbreads,9362.5,799,,,
+42,Singaporean Hokkien Fried Mee,9332.4,697,,,
+32,Mascarpone Fabioli,9171.2,297,,,
+41,Jack's New England Clam Chowder,9098.1,981,,,
+9,Mishi Kobe Niku,8827,95,,,
+75,Rhnbru Klosterbier,8650.55,1155,,,
+14,Tofu,8630.4,404,,,
+57,Ravioli Angelo,7807.8,434,,,
+6,Grandma's Boysenberry Spread,7345,301,,,
+22,Gustaf's Knckebrd,7232.4,348,,,
+34,Sasquatch Ale,6678,506,,,
+58,Escargots de Bourgogne,6664.75,534,,,
+19,Teatime Chocolate Biscuits,6159.5,723,,,
+46,Spegesild,6144,548,,,
+5,Chef Anton's Gumbo Mix,5801.15,298,,,
+13,Konbu,5234.4,891,,,
+54,Tourtire,5121,755,,,
+23,Tunnbrd,4840.2,580,,,
+24,Guaran Fantstica,4782.6,1125,,,
+45,Rogede sild,4740.5,508,,,
+47,Zaanse koeken,4358.6,485,,,
+73,Rd Kaviar,4200,293,,,
+25,NuNuCa Nu-Nougat-Creme,4051.6,318,,,
+66,Louisiana Hot Spiced Okra,3519,239,,,
+50,Valkoinen suklaa,3510,235,,,
+52,Filo Mix,3383.8,500,,,
+3,Aniseed Syrup,3080,328,,,
+37,Gravad lax,3047.2,125,,,
+74,Longlife Tofu,2566,297,,,
+67,Laughing Lumberjack Lager,2562,184,,,
+15,Genen Shouyu,1813.5,122,,,
+33,Geitost,1713.5,755,,,
+48,Chocolade,1542.75,138,,,
+,,,,,,
+,,,,,,
+CategoryID,CategoryName,category_revenue,total_units_sold,,,
+1,Beverages,286526.95,9532,,,
+4,Dairy Products,251330.5,9149,,,
+6,Meat/Poultry,178188.8,4199,,,
+3,Confections,177099.1,7906,,,
+8,Seafood,141623.09,7681,,,
+2,Condiments,113694.75,5298,,,
+7,Produce,105268.6,2990,,,
+5,Grains/Cereals,100726.8,4562,,,
+,,,,,,
+,,,,,,
+CategoryName,revenue,revenue_percentage,,,,
+Beverages,286526.95,21.15,,,,
+Dairy Products,251330.5,18.56,,,,
+Meat/Poultry,178188.8,13.16,,,,
+Confections,177099.1,13.08,,,,
+Seafood,141623.09,10.46,,,,
+Condiments,113694.75,8.39,,,,
+Produce,105268.6,7.77,,,,
+Grains/Cereals,100726.8,7.44,,,,
+,,,,,,
+,,,,,,
+ShipCountry,total_sales,,,,,
+Germany,124170.33,,,,,
+,,,,,,
+,,,,,,
+wa_sales,,,,,,
+31001.65,,,,,,
+,,,,,,
+wa_sales,,,,,,
+11952.85,,,,,,
